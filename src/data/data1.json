@@ -1,0 +1,1638 @@
+{
+    "alabama": {
+        "name": "Alabama",
+        "parks": []
+    },
+    "alaska": {
+        "name": "Alaska",
+        "parks": [
+            {
+                "name": "Denali National Park",
+                "images": "/images/denali.jpg",
+                "text": "Denali National Park and Preserve, formerly known as Mount McKinley National Park, is an American national park and preserve located in Interior Alaska, centered on Denali, the highest mountain in North America. The park and contiguous preserve encompass 6,045,153 acres (9,446 sq mi; 24,464 km2) which is larger than the state of New Hampshire. On December 2, 1980,  2,146,580-acre (3,354 sq mi; 8,687 km2) Denali Wilderness was established within the park.",
+                "latitude": 63.129887,
+                "longitude": -151.197418,
+                "campgrounds": []
+            },
+            {
+                "name": "Gates of the Arctic National Park",
+                "images": "/images/gatesofarctic.jpg",
+                "text": "Gates of the Arctic National Park and Preserve is an American national park that protects portions of the Brooks Range in northern Alaska. The park is the northernmost national park in the United States, situated entirely north of the Arctic Circle. The park is the second largest in the U.S. at 8,472,506 acres (13,238 sq mi; 34,287 km2), slightly larger in area than Belgium.",
+                "latitude": 67.915199,
+                "longitude": -153.46373,
+                "campgrounds": []
+            },
+            {
+                "name": "Glacier Bay National Park",
+                "images": "/images/glacierbay.jpg",
+                "text": "Glacier Bay National Park and Preserve is an American national park located in Southeast Alaska west of Juneau. President Calvin Coolidge proclaimed the area around Glacier Bay a national monument under the Antiquities Act on February 26, 1925. Subsequent to an expansion of the monument by President Jimmy Carter in 1978, the Alaska National Interest Lands Conservation Act (ANILCA) enlarged the national monument by 523,000 acres (817.2 sq mi; 2,116.5 km2) on December 2, 1980, and created Glacier Bay National Park and Preserve.",
+                "latitude": 58.665806,
+                "longitude": -136.900208,
+                "campgrounds": []
+            },
+            {
+                "name": "Katmai National Park",
+                "images": "/images/katmai.jpg",
+                "text": "Katmai National Park and Preserve is an American national park and preserve in southwest Alaska, notable for the Valley of Ten Thousand Smokes and for its brown bears. The park and preserve encompass 4,093,077 acres (6,395.43 sq mi; 16,564.09 km2), which is between the sizes of Connecticut and New Jersey. Most of the national park is a designated wilderness area.",
+                "latitude": 58.597813,
+                "longitude": -154.693756,
+                "campgrounds": [
+                    {
+                        "name": "Fure'S Cabin   Katmai National Park & Preserve Near King Salmon, Alaska",
+                        "link": "/camping/campgrounds/232469"
+                    }
+                ]
+            },
+            {
+                "name": "Kenai Fjords National Park",
+                "images": "/images/kenaifjords.jpg",
+                "text": "Kenai Fjords National Park is an American national park that maintains the Harding Icefield, its outflowing glaciers, and coastal fjords and islands. The park covers an area of 669,984 acres (1,046.9 sq mi; 2,711.3 km2) on the Kenai Peninsula in south-central Alaska, west of the town of Seward.\nThe park contains the Harding Icefield, one of the largest ice fields in the United States, and is named for the numerous fjords carved by glaciers moving down the mountains from the ice field.",
+                "latitude": 60.043777,
+                "longitude": -149.81636,
+                "campgrounds": [
+                    {
+                        "name": "Kenai Fjords National Park Cabins   Kenai Fjords National Park Near Seward, Alaska",
+                        "link": "/camping/campgrounds/251861"
+                    }
+                ]
+            },
+            {
+                "name": "Kobuk Valley National Park",
+                "images": "/images/kobukvalley.jpg",
+                "text": "Kobuk Valley National Park is an American national park in the Arctic region of northwestern Alaska, located about 25 miles (40 km) north of the Arctic Circle. The park was designated in 1980 by the Alaska National Interest Lands Conservation Act to preserve the 100 ft (30 m) high Great Kobuk Sand Dunes and the surrounding area which includes caribou migration routes. Park visitors must bring all their own gear for backcountry camping, hiking, backpacking, boating, and dog sledding.",
+                "latitude": 67.3533647,
+                "longitude": -159.1988853,
+                "campgrounds": []
+            },
+            {
+                "name": "Lake Clark National Park",
+                "images": "/images/lakeclark.jpg",
+                "text": "Lake Clark National Park and Preserve is an American national park in southwest Alaska, about 100 miles (160 km) southwest of Anchorage. The park was first proclaimed a national monument in 1978, then established as a national park and preserve in 1980 by the Alaska National Interest Lands Conservation Act. The park includes many streams and lakes vital to the Bristol Bay salmon fishery, including its namesake Lake Clark.",
+                "latitude": 60.412697,
+                "longitude": -154.323502,
+                "campgrounds": [
+                    {
+                        "name": "Joe Thompson Cabin   Lake Clark National Park & Preserve",
+                        "link": "/camping/campgrounds/10006208"
+                    },
+                    {
+                        "name": "Priest Rock Cabin   Lake Clark National Park & Preserve Near Nondalton, Alaska",
+                        "link": "/camping/campgrounds/259345"
+                    }
+                ]
+            },
+            {
+                "name": "Wrangell-St.Elias National Park",
+                "images": "/images/wrangellstelias.jpg",
+                "text": "Wrangell—St. Elias National Park and Preserve is an American national park and preserve managed by the National Park Service in south central Alaska. The park and preserve were established in 1980 by the Alaska National Interest Lands Conservation Act.[4] The protected areas are included in an International Biosphere Reserve and are part of the Kluane/Wrangell–St. Elias/Glacier Bay/Tatshenshini-Alsek UNESCO World Heritage Site. The park and preserve form the largest area managed by the National Park Service with a total of 13,175,799 acres (20,587.186 sq mi; 53,320.57 km2), an expanse that could encapsulate six Yellowstone National Parks.[5] The park includes a large portion of the Saint Elias Mountains, which include most of the highest peaks in the United States and Canada, yet are within 10 miles (16 km) of tidewater, one of the highest reliefs in the world. Wrangell–St. Elias borders on Canada's Kluane National Park and Reserve to the east and approaches another American national park to the south, Glacier Bay. The chief distinction between park and preserve lands is that sport hunting is prohibited in the park and permitted in the preserve. In addition, 9,078,675 acres (3,674,009 ha) of the park and preserve are designated as the largest single wilderness in the United States.",
+                "latitude": 61.710445,
+                "longitude": -142.985687,
+                "campgrounds": []
+            }
+        ]
+    },
+    "arizona": {
+        "name": "Arizona",
+        "parks": [
+            {
+                "name": "Grand Canyon National Park",
+                "images": "/images/grandcanyon.jpg",
+                "text": "Grand Canyon National Park, located in northwestern Arizona, is the 15th site in the United States to have been named as a national park. The park's central feature is the Grand Canyon, a gorge of the Colorado River, which is often considered one of the Wonders of the World. The park, which covers 1,217,262 acres (1,901.972 sq mi; 4,926.08 km2) of unincorporated area in Coconino and Mohave counties, received more than six million recreational visitors in 2017, which is the second highest count of all American national parks after Great Smoky Mountains National Park.",
+                "latitude": 36.0544445,
+                "longitude": -112.1401108,
+                "campgrounds": [
+                    {
+                        "name": "Mather Campground   Grand Canyon National Park Near Grand Canyon, Arizona",
+                        "link": "/camping/campgrounds/232490"
+                    },
+                    {
+                        "name": "North Rim Campground   Grand Canyon National Park Near North Rim, Arizona",
+                        "link": "/camping/campgrounds/232489"
+                    },
+                    {
+                        "name": "Desert View Campground   Grand Canyon National Park Near Grand Canyon National Park, Arizona",
+                        "link": "/camping/campgrounds/258825"
+                    }
+                ]
+            },
+            {
+                "name": "Petrified Forest",
+                "images": "/images/petrifiedforest.jpg",
+                "text": "Petrified wood, also known as petrified tree (from Ancient Greek \u03c0\u03ad\u03c4\u03c1\u03b1 meaning 'rock' or 'stone'; literally 'wood turned into stone'), is the name given to a special type of fossilized wood, the fossilized remains of terrestrial vegetation. Petrifaction is the result of a tree or tree-like plants having been replaced by stone via a mineralization process that often includes permineralization and replacement. The organic materials making up cell walls have been replicated with minerals (mostly silica in the form of opal, chalcedony, or quartz).",
+                "latitude": 34.909988,
+                "longitude": -109.806793,
+                "campgrounds": []
+            },
+            {
+                "name": "Saguaro National Park",
+                "images": "/images/saguaro.jpg",
+                "text": "Saguaro National Park is an American national park in Pima County, southeastern Arizona. The 92,000-acre (37,000 ha) park consists of two separate areas\u2014the Tucson Mountain District (TMD) about 10 miles (16 km) west of the city of Tucson and the Rincon Mountain District (RMD) about 10 miles (16 km) east of the city\u2014that preserve Sonoran Desert landscapes, fauna, and flora, including the giant saguaro cactus.\nThe volcanic rocks on the surface of the Tucson Mountain District differ greatly from the surface rocks of the Rincon Mountain District; over the past 30 million years, crustal stretching displaced rocks from beneath the Tucson Mountains of the Tucson Mountain District to form the Rincon Mountains of the Rincon Mountain District.",
+                "latitude": 32.296738,
+                "longitude": -111.166618,
+                "campgrounds": [
+                    {
+                        "name": "Saguaro National Park Wilderness Permits   Saguaro National Park Near Vail, Arizona",
+                        "link": "/camping/campgrounds/10028678"
+                    }
+                ]
+            }
+        ]
+    },
+    "arkansas": {
+        "name": "Arkansas",
+        "parks": [
+            {
+                "name": "Hot Springs National Park",
+                "images": "/images/hotsprings.jpg",
+                "text": "Hot Springs National Park is an American national park in central Garland County, Arkansas, adjacent to the city of Hot Springs, the county seat. Hot Springs Reservation was initially created by an act of the United States Congress on April 20, 1832 to be preserved for future recreation. Established before the concept of a national park existed, it was the first time that land had been set aside by the federal government to preserve its use as an area for recreation.",
+                "latitude": 34.52153,
+                "longitude": -93.042267,
+                "campgrounds": [
+                    {
+                        "name": "Gulpha Gorge Campground   Hot Springs National Park Near Hot Springs National Park, Arkansas",
+                        "link": "/camping/campgrounds/247559"
+                    }
+                ]
+            }
+        ]
+    },
+    "california": {
+        "name": "California",
+        "parks": [
+            {
+                "name": "Channel Islands National Park",
+                "images": "/images/channelislands.jpg",
+                "text": "Channel Islands National Park consists of five of the eight Channel Islands off the Pacific coast of the U.S. state of California. Although the islands are close to the shore of the densely populated state, they have been relatively undeveloped. The park covers 249,561 acres (100,994 ha), of which 79,019 acres (31,978 ha) are federal land.",
+                "latitude": 33.998028,
+                "longitude": -119.772949,
+                "campgrounds": [
+                    {
+                        "name": "Santa Rosa Island   Channel Islands National Park Near Santa Barbara, California",
+                        "link": "/camping/campgrounds/232497"
+                    },
+                    {
+                        "name": "Santa Rosa Island Backcountry Beach Camping   Channel Islands National Park Near Santa Barbara, California",
+                        "link": "/camping/campgrounds/261700"
+                    },
+                    {
+                        "name": "Santa Cruz Del Norte Backcountry   Channel Islands National Park Near Ventura, California",
+                        "link": "/camping/campgrounds/232499"
+                    },
+                    {
+                        "name": "Santa Cruz Scorpion   Channel Islands National Park Near Ventura, California",
+                        "link": "/camping/campgrounds/232498"
+                    },
+                    {
+                        "name": "San Miguel Island   Channel Islands National Park Near Santa Barbara, California",
+                        "link": "/camping/campgrounds/232501"
+                    },
+                    {
+                        "name": "Anacapa Island   Channel Islands National Park Near Ventura, California",
+                        "link": "/camping/campgrounds/232502"
+                    },
+                    {
+                        "name": "Santa Barbara Island   Channel Islands National Park Near Avalon, California",
+                        "link": "/camping/campgrounds/232500"
+                    }
+                ]
+            },
+            {
+                "name": "Death Valley National Park",
+                "images": "/images/deathvalley.jpg",
+                "text": "Death Valley National Park is an American national park that straddles the California\u2013Nevada border, east of the Sierra Nevada. The park boundaries include Death Valley, the northern section of Panamint Valley, the southern section of Eureka Valley and most of Saline Valley. The park occupies an interface zone between the arid Great Basin and Mojave deserts, protecting the northwest corner of the Mojave Desert and its diverse environment of salt-flats, sand dunes, badlands, valleys, canyons and mountains.",
+                "latitude": 36.4643308,
+                "longitude": -116.86906640000001,
+                "campgrounds": [
+                    {
+                        "name": "Furnace Creek Campground   Death Valley National Park Near Death Valley, California",
+                        "link": "/camping/campgrounds/232496"
+                    }
+                ]
+            },
+            {
+                "name": "Joshua Tree National Park",
+                "images": "/images/joshuatree.jpg",
+                "text": "Joshua Tree National Park is an American national park in southeastern California, east of San Bernardino and Los Angeles and north Palm Springs. It is named after the Joshua trees (Yucca brevifolia) native to the Mojave Desert. Originally declared a national monument in 1936, Joshua Tree was redesignated as a national park in 1994 when the U.S. Congress passed the California Desert Protection Act.",
+                "latitude": 33.881866,
+                "longitude": -115.90065,
+                "campgrounds": [
+                    {
+                        "name": "Cottonwood Campground (CA)   Joshua Tree National Park Near Indio, California",
+                        "link": "/camping/campgrounds/272299"
+                    },
+                    {
+                        "name": "Cottonwood Group   Joshua Tree National Park Near Indio, California",
+                        "link": "/camping/campgrounds/232471"
+                    },
+                    {
+                        "name": "Jumbo Rocks Campground   Joshua Tree National Park Near Twentynine Palms, California",
+                        "link": "/camping/campgrounds/272300"
+                    },
+                    {
+                        "name": "Sheep Pass Group   Joshua Tree National Park Near Joshua Tree, California",
+                        "link": "/camping/campgrounds/232470"
+                    },
+                    {
+                        "name": "Indian Cove Campground   Joshua Tree National Park Near Joshua Tree, California",
+                        "link": "/camping/campgrounds/232472"
+                    },
+                    {
+                        "name": "Black Rock Campground   Joshua Tree National Park Near Yucca Valley, California",
+                        "link": "/camping/campgrounds/232473"
+                    },
+                    {
+                        "name": "Black Rock Equestrian Campground   Joshua Tree National Park Near Yucca Valley, California",
+                        "link": "/camping/campgrounds/234723"
+                    }
+                ]
+            },
+            {
+                "name": "Kings Canyon",
+                "images": "/images/kingscanyon.jpg",
+                "text": "Kings Canyon National Park is an American national park in the southern Sierra Nevada, in Fresno and Tulare Counties, California. Originally established in 1890 as General Grant National Park, the park was greatly expanded and renamed to Kings Canyon National Park on March 4, 1940. The park's namesake, Kings Canyon, is a rugged glacier-carved valley more than a mile (1,600 m) deep.",
+                "latitude": 36.887856,
+                "longitude": -118.555145,
+                "campgrounds": []
+            },
+            {
+                "name": "Lassen Volcanic National Park",
+                "images": "/images/lassenvolcanic.jpg",
+                "text": "Lassen Volcanic National Park is an American national park in northeastern California. The dominant feature of the park is Lassen Peak, the largest plug dome volcano in the world and the southernmost volcano in the Cascade Range. Lassen Volcanic National Park is one of the few areas in the world where all four types of volcano can be found\u2014plug dome, shield, cinder cone, and stratovolcano.The source of heat for the volcanism in the Lassen area is subduction of the Gorda Plate diving below the North American Plate off the Northern California coast.",
+                "latitude": 40.560575,
+                "longitude": -121.4206552,
+                "campgrounds": [
+                    {
+                        "name": "Summit Lake Stock Corral   Lassen Volcanic National Park Near Old Station, California",
+                        "link": "/camping/campgrounds/233358"
+                    },
+                    {
+                        "name": "Summit Lake South   Lassen Volcanic National Park Near Old Station, California",
+                        "link": "/camping/campgrounds/234040"
+                    },
+                    {
+                        "name": "Summit Lake North   Lassen Volcanic National Park Near Old Station, California",
+                        "link": "/camping/campgrounds/234041"
+                    },
+                    {
+                        "name": "Warner Valley Campground   Lassen Volcanic National Park Near Chester, California",
+                        "link": "/camping/campgrounds/10047182"
+                    },
+                    {
+                        "name": "Juniper Lake Group   Lassen Volcanic National Park Near Mcarthur, California",
+                        "link": "/camping/campgrounds/234524"
+                    },
+                    {
+                        "name": "Juniper Lake Stock Corral   Lassen Volcanic National Park Near Mcarthur, California",
+                        "link": "/camping/campgrounds/233357"
+                    },
+                    {
+                        "name": "Butte Lake   Lassen Volcanic National Park Near Mcarthur, California",
+                        "link": "/camping/campgrounds/234156"
+                    },
+                    {
+                        "name": "Butte Lake Group   Lassen Volcanic National Park Near Mcarthur, California",
+                        "link": "/camping/campgrounds/234162"
+                    },
+                    {
+                        "name": "Butte Lake Stock Corral   Lassen Volcanic National Park Near Mcarthur, California",
+                        "link": "/camping/campgrounds/233356"
+                    },
+                    {
+                        "name": "Lost Creek Group   Lassen Volcanic National Park Near Shingletown, California",
+                        "link": "/camping/campgrounds/234042"
+                    },
+                    {
+                        "name": "Manzanita Lake Camping Cabins (CA)   Lassen Volcanic National Park Near Shingletown, California",
+                        "link": "/camping/campgrounds/233257"
+                    },
+                    {
+                        "name": "Manzanita Lake   Lassen Volcanic National Park Near Shingletown, California",
+                        "link": "/camping/campgrounds/234039"
+                    },
+                    {
+                        "name": "Manzanita Lake Group Campground   Lassen Volcanic National Park Near Shingletown, California",
+                        "link": "/camping/campgrounds/233372"
+                    }
+                ]
+            },
+            {
+                "name": "Pinnacles National Park",
+                "images": "/images/pinnacles.jpg",
+                "text": "Pinnacles National Park is an American national park protecting a mountainous area located east of the Salinas Valley in Central California, about five miles (8.0 km) east of Soledad and 80 miles (130 km) southeast of San Jose. The park's namesakes are the eroded leftovers of the western half of an extinct volcano that has moved 200 miles (320 km) from its original location on the San Andreas Fault, embedded in a portion of the California Pacific Coast Ranges. Pinnacles is managed by the National Park Service and the majority of the park is protected as wilderness.",
+                "latitude": 36.491508,
+                "longitude": -121.197243,
+                "campgrounds": [
+                    {
+                        "name": "Pinnacles Campground   Pinnacles National Park Near Paicines, California",
+                        "link": "/camping/campgrounds/234015"
+                    }
+                ]
+            },
+            {
+                "name": "Redwood National Park",
+                "images": "/images/redwood.jpg",
+                "text": "",
+                "latitude": 41.213181,
+                "longitude": -124.004631,
+                "campgrounds": []
+            },
+            {
+                "name": "Sequoia National Park",
+                "images": "/images/sequoia.jpg",
+                "text": "Sequoia National Park is an American national park in the southern Sierra Nevada east of Visalia, California. The park was established on September 25, 1890, to protect 404,064 acres (631 sq mi; 163,519 ha; 1,635 km2) of forested mountainous terrain. Encompassing a vertical relief of nearly 13,000 feet (4,000 m), the park contains the highest point in the contiguous United States, Mount Whitney, at 14,505 feet (4,421 m) above sea level.",
+                "latitude": 36.486366,
+                "longitude": " -118.565750",
+                "campgrounds": [
+                    {
+                        "name": "Buckeye Flat Campground   Sequoia & Kings Canyon National Parks Near Sequoia National Park, California",
+                        "link": "/camping/campgrounds/249982"
+                    },
+                    {
+                        "name": "Lodgepole Campground-Sequoia and Kings Canyon National Park   Sequoia & Kings Canyon National Parks Near Sequoia National Park, California",
+                        "link": "/camping/campgrounds/232461"
+                    },
+                    {
+                        "name": "Stony Creek Sequoia   Sequoia National Forest Near Sequoia National Park, California",
+                        "link": "/camping/campgrounds/232785"
+                    },
+                    {
+                        "name": "Big Meadow Campground - Us Forest Service Sequoia National Forest (CA)   Sequoia National Forest Near Sequoia National Park, California",
+                        "link": "/camping/campgrounds/256932"
+                    },
+                    {
+                        "name": "Big Meadows Cabin (CA)   Sequoia National Forest Near Sequoia National Park, California",
+                        "link": "/camping/campgrounds/234458"
+                    }
+                ]
+            },
+            {
+                "name": "Yosemite National Park",
+                "images": "/images/yosemite.jpg",
+                "text": "Yosemite National Park ( yoh-SEM-ih-tee) is an American national park in California, surrounded on the southeast by Sierra National Forest and on the northwest by Stanislaus National Forest. The park is managed by the National Park Service and covers an area of 759,620 acres (1,187 sq mi; 3,074 km2) and sits in four counties \u2013 centered in Tuolumne and Mariposa, extending north and east to Mono and south to Madera County. Designated a World Heritage Site in 1984, Yosemite is internationally recognized for its granite cliffs, waterfalls, clear streams, giant sequoia groves, lakes, mountains, meadows, glaciers, and biological diversity.",
+                "latitude": 37.865101,
+                "longitude": -119.53833,
+                "campgrounds": [
+                    {
+                        "name": "North Pines Campground   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/232449"
+                    },
+                    {
+                        "name": "Lower Pines Campground   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/232450"
+                    },
+                    {
+                        "name": "Upper Pines Campground   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/232447"
+                    },
+                    {
+                        "name": "Camp 4   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/10004152"
+                    },
+                    {
+                        "name": "Tuolumne Meadows Campground   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/232448"
+                    },
+                    {
+                        "name": "Bridalveil Creek Campground   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/232453"
+                    },
+                    {
+                        "name": "Crane Flat Campground   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/232452"
+                    },
+                    {
+                        "name": "Hodgdon Meadow Campground   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/232451"
+                    },
+                    {
+                        "name": "Wawona Campground   Yosemite National Park Near Yosemite National Park, California",
+                        "link": "/camping/campgrounds/232446"
+                    }
+                ]
+            }
+        ]
+    },
+    "colorado": {
+        "name": "Colorado",
+        "parks": [
+            {
+                "name": "Black Canyon of the Gunnison National Park",
+                "images": "/images/blackcanyon.jpg",
+                "text": "Black Canyon of the Gunnison National Park is an American national park located in western Colorado and managed by the National Park Service. There are two primary entrances to the park: the south rim entrance is located 15 miles (24 km) east of Montrose, while the north rim entrance is 11 miles (18 km) south of Crawford and is closed in the winter. The park contains 12 miles (19 km) of the 48-mile (77 km) long Black Canyon of the Gunnison River.",
+                "latitude": 38.5753936,
+                "longitude": -107.74159609999998,
+                "campgrounds": []
+            },
+            {
+                "name": "Great Sand Dunes National Park",
+                "images": "/images/greatsanddunes.jpg",
+                "text": "Great Sand Dunes National Park and Preserve is an American national park that conserves an area of large sand dunes up to 750 feet (230 m) tall on the eastern edge of the San Luis Valley, and an adjacent national preserve in the Sangre de Cristo Range, in south-central Colorado, United States. The park was originally designated Great Sand Dunes National Monument on March 17, 1932, by President Herbert Hoover. The original boundaries protected an area of 35,528 acres (55.5 sq mi; 143.8 km2).",
+                "latitude": 37.732777777778,
+                "longitude": " -105.51222222222",
+                "campgrounds": [
+                    {
+                        "name": "Pinon Flats Campground   Great Sand Dunes National Park & Preserve Near Alamosa, Colorado",
+                        "link": "/camping/campgrounds/234685"
+                    }
+                ]
+            },
+            {
+                "name": "Mesa Verde National Park",
+                "images": "/images/mesaverde.jpg",
+                "text": "Mesa Verde National Park is an American national park and UNESCO World Heritage Site located in Montezuma County, Colorado. The park protects some of the best-preserved Ancestral Puebloan archaeological sites in the United States.\nEstablished by Congress and President Theodore Roosevelt in 1906, the park occupies 52,485 acres (21,240 ha) near the Four Corners region of the American Southwest.",
+                "latitude": 37.230873,
+                "longitude": -108.461838,
+                "campgrounds": []
+            },
+            {
+                "name": "Rocky Mountain National Park",
+                "images": "/images/rockymountain.jpg",
+                "text": "Rocky Mountain National Park is an American national park located approximately 55 mi (89 km) northwest of Denver in north-central Colorado, within the Front Range of the Rocky Mountains. The park is situated between the towns of Estes Park to the east and Grand Lake to the west. The eastern and western slopes of the Continental Divide run directly through the center of the park with the headwaters of the Colorado River located in the park's northwestern region.",
+                "latitude": 40.343182,
+                "longitude": -105.688103,
+                "campgrounds": [
+                    {
+                        "name": "Moraine Park Campground   Rocky Mountain National Park Near Estes Park, Colorado",
+                        "link": "/camping/campgrounds/232463"
+                    },
+                    {
+                        "name": "Glacier Basin Campground   Rocky Mountain National Park Near Estes Park, Colorado",
+                        "link": "/camping/campgrounds/232462"
+                    },
+                    {
+                        "name": "Aspenglen Campground   Rocky Mountain National Park Near Estes Park, Colorado",
+                        "link": "/camping/campgrounds/233187"
+                    },
+                    {
+                        "name": "Timber Creek Campground   Rocky Mountain National Park Near Grand Lake, Colorado",
+                        "link": "/camping/campgrounds/260552"
+                    }
+                ]
+            }
+        ]
+    },
+    "connecticut": {
+        "name": "Connecticut",
+        "parks": []
+    },
+    "delaware": {
+        "name": "Delaware",
+        "parks": []
+    },
+    "florida": {
+        "name": "Florida",
+        "parks": [
+            {
+                "name": "Biscayne National Park",
+                "images": "/images/biscayne.jpg",
+                "text": "Biscayne National Park is an American national park in southern Florida, south of Miami. The park preserves Biscayne Bay and its offshore barrier reefs. Ninety-five percent of the park is water, and the shore of the bay is the location of an extensive mangrove forest.",
+                "latitude": 25.482423,
+                "longitude": -80.334822,
+                "campgrounds": [
+                    {
+                        "name": "Elliot Key Campground   Biscayne National Park",
+                        "link": "/camping/campgrounds/10078979"
+                    },
+                    {
+                        "name": "Boca Chita Campground   Biscayne National Park Near Homestead, Florida",
+                        "link": "/camping/campgrounds/246814"
+                    }
+                ]
+            },
+            {
+                "name": "Dry Tortugas National Park",
+                "images": "/images/drytortugas.jpg",
+                "text": "Dry Tortugas National Park is a national park in the United States about 68 miles (109 km) west of Key West in the Gulf of Mexico. The park preserves Fort Jefferson and the seven Dry Tortugas islands, the westernmost and most isolated of the Florida Keys. The archipelago's coral reefs are the least disturbed of the Florida Keys reefs.",
+                "latitude": 24.628477,
+                "longitude": -82.873188,
+                "campgrounds": []
+            },
+            {
+                "name": "Everglades National Park",
+                "images": "/images/everglades.jpg",
+                "text": "Everglades National Park  is an American national park that protects the southern twenty percent of the original Everglades in Florida. The park is the largest tropical wilderness in the United States and the largest wilderness of any kind east of the Mississippi River. An average of one million people visit the park each year.",
+                "latitude": 25.286615,
+                "longitude": -80.898651,
+                "campgrounds": []
+            }
+        ]
+    },
+    "georgia": {
+        "name": "Georgia",
+        "parks": []
+    },
+    "hawaii": {
+        "name": "Hawaii",
+        "parks": [
+            {
+                "name": "Haleakala National Park",
+                "images": "/images/haleakala.jpg",
+                "text": "Haleakal\u0101 National Park is an American national park located on the island of Maui in the state of Hawaii. Named after Haleakal\u0101, a dormant volcano within its boundaries, the park covers an area of 33,265 acres (52.0 sq mi; 134.6 km2), of which 24,719 acres (38.6 sq mi; 100.0 km2) is a wilderness area. The land was designated a national park in 1976 and its boundaries expanded in 2005.",
+                "latitude": 20.701283,
+                "longitude": -156.173325,
+                "campgrounds": [
+                    {
+                        "name": "Haleakala National Park (Cabin Permits)   Haleakala National Park Near Kula, Hawaii",
+                        "link": "/camping/campgrounds/234783"
+                    },
+                    {
+                        "name": "Haleakala National Park (Wilderness Tent Permits)   Haleakala National Park Near Kula, Hawaii",
+                        "link": "/camping/campgrounds/10119505"
+                    }
+                ]
+            },
+            {
+                "name": "Hawai'i Volcanoes National Park",
+                "images": "/images/hawaiivolcanoes.jpg",
+                "text": "Hawai\u02bbi Volcanoes National Park is an American national park located in the U.S. state of Hawaii on the island of Hawaii. The park encompasses two active volcanoes: K\u012blauea, one of the world's most active volcanoes, and Mauna Loa, the world's most massive shield volcano. The park provides scientists with insight into the development of the Hawaiian Islands and access for studies of volcanism.",
+                "latitude": 19.479488,
+                "longitude": -155.602829,
+                "campgrounds": []
+            }
+        ]
+    },
+    "idaho": {
+        "name": "Idaho",
+        "parks": [
+            {
+                "name": "Yellowstone National Park",
+                "images": "/images/yellowstone.jpg",
+                "text": "",
+                "latitude": 44.423691,
+                "longitude": -110.588516,
+                "campgrounds": [
+                    {
+                        "name": "Indian Creek Campground (Yellowstone)   Yellowstone National Park Near Mammoth Hot Springs, Wyoming",
+                        "link": "/camping/campgrounds/259304"
+                    },
+                    {
+                        "name": "Lewis Lake Campground   Yellowstone National Park Near Moran, Wyoming",
+                        "link": "/camping/campgrounds/259309"
+                    },
+                    {
+                        "name": "Mammoth Campground (Yellowstone)   Yellowstone National Park Near Mammoth Hot Springs, Wyoming",
+                        "link": "/camping/campgrounds/247571"
+                    },
+                    {
+                        "name": "Slough Creek Campground   Yellowstone National Park Near Yellowstone National Park, Wyoming",
+                        "link": "/camping/campgrounds/259310"
+                    },
+                    {
+                        "name": "Pebble Creek Campground   Yellowstone National Park Near Yellowstone National Park, Wyoming",
+                        "link": "/camping/campgrounds/259307"
+                    }
+                ]
+            }
+        ]
+    },
+    "illinois": {
+        "name": "Illinois",
+        "parks": []
+    },
+    "indiana": {
+        "name": "Indiana",
+        "parks": [
+            {
+                "name": "Indiana Dunes National Park",
+                "images": "/images/indianadunes.jpg",
+                "text": "Indiana Dunes National Park is a United States national park located in northwestern Indiana managed by the National Park Service. It was authorized by Congress in 1966 as the Indiana Dunes National Lakeshore and was redesignated as the nation's 61st national park on February 15, 2019. The park runs for about 20 miles (32 km) along the southern shore of Lake Michigan; it covers 15,349 acres (6,212 ha) of various acreage.",
+                "latitude": 41.623747,
+                "longitude": -86.841765,
+                "campgrounds": [
+                    {
+                        "name": "Chellberg Farm Picnic Shelters   Indiana Dunes National Park Near Porter, Indiana",
+                        "link": "/camping/campgrounds/10007156"
+                    },
+                    {
+                        "name": "West Beach Picnic Shelters   Indiana Dunes National Park Near Gary, Indiana",
+                        "link": "/camping/campgrounds/10007207"
+                    },
+                    {
+                        "name": "Dunewood Campground   Indiana Dunes National Park Near Beverly Shores, Indiana",
+                        "link": "/camping/campgrounds/258887"
+                    }
+                ]
+            }
+        ]
+    },
+    "iowa": {
+        "name": "Iowa",
+        "parks": []
+    },
+    "kansas": {
+        "name": "Kansas",
+        "parks": []
+    },
+    "kentucky": {
+        "name": "Kentucky",
+        "parks": [
+            {
+                "name": "Mammoth Cave National Park",
+                "images": "/images/mammothcave.jpg",
+                "text": "Mammoth Cave National Park is an American national park in west-central Kentucky, encompassing portions of Mammoth Cave, the longest cave system known in the world.\nSince the 1972 unification of Mammoth Cave with the even-longer system under Flint Ridge to the north, the official name of the system has been the Mammoth\u2013Flint Ridge Cave System. The park was established as a national park on July 1, 1941, a World Heritage Site on October 27, 1981, an international Biosphere Reserve on September 26, 1990 and an International Dark Sky Park on October 28, 2021.",
+                "latitude": 37.186989,
+                "longitude": -86.10054,
+                "campgrounds": [
+                    {
+                        "name": "Maple Springs   Mammoth Cave National Park Near Brownsville, Kentucky",
+                        "link": "/camping/campgrounds/232468"
+                    },
+                    {
+                        "name": "Mammoth Picnic Shelters   Mammoth Cave National Park Near Brownsville, Kentucky",
+                        "link": "/camping/campgrounds/232442"
+                    },
+                    {
+                        "name": "Mammoth Cave Campground   Mammoth Cave National Park Near Mammoth Cave, Kentucky",
+                        "link": "/camping/campgrounds/232467"
+                    }
+                ]
+            }
+        ]
+    },
+    "louisiana": {
+        "name": "Louisiana",
+        "parks": []
+    },
+    "maine": {
+        "name": "Maine",
+        "parks": [
+            {
+                "name": "Acadia National Park",
+                "images": "/images/acadia.jpg",
+                "text": "Acadia National Park is an American national park located along the mid-section of the Maine coast, southwest of Bar Harbor. The park preserves about half of Mount Desert Island, part of the Isle au Haut, the tip of the Schoodic Peninsula, and portions of 16 smaller outlying islands. It protects the natural beauty of the rocky headlands, including the highest mountains along the Atlantic coast.",
+                "latitude": 44.338974,
+                "longitude": -68.27343,
+                "campgrounds": [
+                    {
+                        "name": "Blackwoods Campground   Acadia National Park Near Mount Desert, Maine",
+                        "link": "/camping/campgrounds/232508"
+                    },
+                    {
+                        "name": "Schoodic Woods Campground   Acadia National Park Near Winter Harbor, Maine",
+                        "link": "/camping/campgrounds/251833"
+                    },
+                    {
+                        "name": "Seawall Campground   Acadia National Park Near Southwest Harbor, Maine",
+                        "link": "/camping/campgrounds/234674"
+                    },
+                    {
+                        "name": "Duck Harbor Campground   Acadia National Park Near Isle Au Haut, Maine",
+                        "link": "/camping/campgrounds/264293"
+                    }
+                ]
+            }
+        ]
+    },
+    "maryland": {
+        "name": "Maryland",
+        "parks": []
+    },
+    "massachusetts": {
+        "name": "Massachusetts",
+        "parks": []
+    },
+    "michigan": {
+        "name": "Michigan",
+        "parks": [
+            {
+                "name": "Isle Royale National Park",
+                "images": "/images/isleroyale.jpg",
+                "text": "Isle Royale National Park is an American national park consisting of Isle Royale and more than 400 small adjacent islands, as well as the surrounding waters of Lake Superior, in the state of Michigan. Isle Royale is 45 miles (72 km) long and 9 miles (14 km) wide, with an area of 206.73 square miles (535.4 km2), making it the fourth-largest lake island in the world. In addition, it is the largest natural island in Lake Superior, the second-largest island in the Great Lakes (after Manitoulin Island), the third-largest in the contiguous United States (after Long Island and Padre Island), and the 33rd-largest island in the United States.Isle Royale National Park was established on April 3, 1940, then additionally protected from development by wilderness area designation in 1976, declared a UNESCO International Biosphere Reserve in 1980, and added to the National Register of Historic Places in 2019 as the Minong Traditional Cultural Property.",
+                "latitude": 48.1511,
+                "longitude": -88.6206,
+                "campgrounds": []
+            }
+        ]
+    },
+    "minnesota": {
+        "name": "Minnesota",
+        "parks": [
+            {
+                "name": "Voyageurs National Park",
+                "images": "/images/voyageurs.jpg",
+                "text": "Voyageurs National Park is an American national park in northern Minnesota near the city of International Falls established in 1975. The park's name commemorates the voyageurs\u2014French-Canadian fur traders who were the first European settlers to frequently travel through the area. Notable for its outstanding water resources, the park is popular with canoeists, kayakers, other boaters, and fishermen.",
+                "latitude": 48.4835458,
+                "longitude": -92.8380976,
+                "campgrounds": [
+                    {
+                        "name": "Voyageurs National Park Camping Permits   Voyageurs National Park Near International Falls, Minnesota",
+                        "link": "/camping/campgrounds/249981"
+                    }
+                ]
+            }
+        ]
+    },
+    "mississippi": {
+        "name": "Mississippi",
+        "parks": []
+    },
+    "missouri": {
+        "name": "Missouri",
+        "parks": [
+            {
+                "name": "Gateway Arch National Park",
+                "images": "/images/gatewayarch.jpg",
+                "text": "Gateway Arch National Park is an American national park located in St. Louis, Missouri, near the starting point of the Lewis and Clark Expedition.\nThe memorial was established to commemorate:\n\nthe Louisiana Purchase and subsequent westward movement of American explorers and pioneers;\nthe first civil government west of the Mississippi River; and\nthe debate over slavery raised by the Dred Scott case.The national park consists of the Gateway Arch, a steel catenary arch that has become the definitive icon of St.",
+                "latitude": 38.624691,
+                "longitude": -90.184776,
+                "campgrounds": []
+            }
+        ]
+    },
+    "montana": {
+        "name": "Montana",
+        "parks": [
+            {
+                "name": "Glacier National Park",
+                "images": "/images/glacier.jpg",
+                "text": "Glacier National Park is an American national park located in northwestern Montana, on the Canada\u2013United States border, adjacent to the Canadian provinces of Alberta and British Columbia. The park encompasses more than 1 million acres (4,000 km2) and includes parts of two mountain ranges (sub-ranges of the Rocky Mountains), more than 130 named lakes, more than 1,000 different species of plants, and hundreds of species of animals. This vast pristine ecosystem is the centerpiece of what has been referred to as the \"Crown of the Continent Ecosystem,\" a region of protected land encompassing 16,000 square miles (41,000 km2).The region that became Glacier National Park was first inhabited by Native Americans.",
+                "latitude": 48.7596128,
+                "longitude": -113.78702250000003,
+                "campgrounds": [
+                    {
+                        "name": "Many Glacier Campground   Glacier National Park Near Browning, Montana",
+                        "link": "/camping/campgrounds/251869"
+                    },
+                    {
+                        "name": "Fish Creek Campground   Glacier National Park Near West Glacier, Montana",
+                        "link": "/camping/campgrounds/232493"
+                    },
+                    {
+                        "name": "Apgar Group Sites   Glacier National Park Near West Glacier, Montana",
+                        "link": "/camping/campgrounds/234669"
+                    },
+                    {
+                        "name": "St. Mary Campground   Glacier National Park Near Browning, Montana",
+                        "link": "/camping/campgrounds/232492"
+                    }
+                ]
+            },
+            {
+                "name": "Yellowstone National Park",
+                "images": "/images/yellowstone.jpg",
+                "text": "",
+                "latitude": 44.423691,
+                "longitude": -110.588516,
+                "campgrounds": [
+                    {
+                        "name": "Indian Creek Campground (Yellowstone)   Yellowstone National Park Near Mammoth Hot Springs, Wyoming",
+                        "link": "/camping/campgrounds/259304"
+                    },
+                    {
+                        "name": "Lewis Lake Campground   Yellowstone National Park Near Moran, Wyoming",
+                        "link": "/camping/campgrounds/259309"
+                    },
+                    {
+                        "name": "Mammoth Campground (Yellowstone)   Yellowstone National Park Near Mammoth Hot Springs, Wyoming",
+                        "link": "/camping/campgrounds/247571"
+                    },
+                    {
+                        "name": "Slough Creek Campground   Yellowstone National Park Near Yellowstone National Park, Wyoming",
+                        "link": "/camping/campgrounds/259310"
+                    },
+                    {
+                        "name": "Pebble Creek Campground   Yellowstone National Park Near Yellowstone National Park, Wyoming",
+                        "link": "/camping/campgrounds/259307"
+                    }
+                ]
+            }
+        ]
+    },
+    "nebraska": {
+        "name": "Nebraska",
+        "parks": []
+    },
+    "nevada": {
+        "name": "Nevada",
+        "parks": [
+            {
+                "name": "Death Valley",
+                "images": "/images/deathvalley.jpg",
+                "text": "Death Valley is a desert valley in Eastern California, in the northern Mojave Desert, bordering the Great Basin Desert. During summer, it is one of the hottest places on Earth, along with deserts in the Middle East and the Sahara.Death Valley's Badwater Basin is the point of lowest elevation in North America, at 282 feet (86 m) below sea level. It is 84.6 miles (136.2 km) east-southeast of Mount Whitney, the highest point in the contiguous United States, with an elevation of 14,505 feet (4,421 m).",
+                "latitude": 36.9652162,
+                "longitude": -117.1497894,
+                "campgrounds": [
+                    {
+                        "name": "Furnace Creek Campground   Death Valley National Park Near Death Valley, California",
+                        "link": "/camping/campgrounds/232496"
+                    }
+                ]
+            },
+            {
+                "name": "Great Basin National Park",
+                "images": "/images/greatbasin.jpg",
+                "text": "Great Basin National Park is an American national park located in White Pine County in east-central Nevada, near the Utah border, established in 1986. The park is most commonly entered by way of Nevada State Route 488, which is connected to U.S. Routes 6 and 50 by Nevada State Route 487 via the small town of Baker, the closest settlement.\nThe park derives its name from the Great Basin, the dry and mountainous region between the Sierra Nevada and the Wasatch Mountains.",
+                "latitude": 38.9833329999,
+                "longitude": " -114.30",
+                "campgrounds": [
+                    {
+                        "name": "Grey Cliffs Campground   Great Basin National Park Near Baker, Nevada",
+                        "link": "/camping/campgrounds/251958"
+                    },
+                    {
+                        "name": "Upper Lehman Campground   Great Basin National Park Near Baker, Nevada",
+                        "link": "/camping/campgrounds/10101374"
+                    },
+                    {
+                        "name": "Lower Lehman Campground   Great Basin National Park Near Baker, Nevada",
+                        "link": "/camping/campgrounds/10101362"
+                    },
+                    {
+                        "name": "Wheeler Peak Campground   Great Basin National Park Near Baker, Nevada",
+                        "link": "/camping/campgrounds/10088563"
+                    }
+                ]
+            }
+        ]
+    },
+    "newhampshire": {
+        "name": "New Hampshire",
+        "parks": []
+    },
+    "newjersey": {
+        "name": "New Jersey",
+        "parks": []
+    },
+    "newmexico": {
+        "name": "New Mexico",
+        "parks": [
+            {
+                "name": "Carlsbad Caverns National Park",
+                "images": "/images/carlsbadcaverns.jpg",
+                "text": "Carlsbad Caverns National Park is an American national park in the Guadalupe Mountains of southeastern New Mexico. The primary attraction of the park is the show cave, Carlsbad Cavern. Visitors to the cave can hike in on their own via the natural entrance or take an elevator from the visitor center.",
+                "latitude": 32.417934,
+                "longitude": -104.229034,
+                "campgrounds": []
+            },
+            {
+                "name": "White Sands National Park",
+                "images": "/images/whitesands.jpg",
+                "text": "White Sands National Park is an American national park located in the state of New Mexico and completely surrounded by the White Sands Missile Range. The park covers 145,762 acres (227.8 sq mi; 589.9 km2) in the Tularosa Basin, including the southern 41% of a 275 sq mi (710 km2) field of white sand dunes composed of gypsum crystals. This gypsum dunefield is the largest of its kind on Earth, with a depth of about 30 feet (9.1 m), dunes as tall as 60 feet (18 m), and about 4.5 billion short tons (4.1 billion metric tons) of gypsum sand.",
+                "latitude": 32.77972,
+                "longitude": -106.171669,
+                "campgrounds": []
+            }
+        ]
+    },
+    "newyork": {
+        "name": "New York",
+        "parks": []
+    },
+    "northcarolina": {
+        "name": "North Carolina",
+        "parks": [
+            {
+                "name": "Great Smoky Mountains National Park",
+                "images": "/images/greatsmokymountains.jpg",
+                "text": "Great Smoky Mountains National Park is an American national park in the southeastern United States, with parts in Tennessee and North Carolina. The park straddles the ridgeline of the Great Smoky Mountains, part of the Blue Ridge Mountains, which are a division of the larger Appalachian Mountain chain. The park contains some of the highest mountains in eastern North America, including Clingmans Dome, Mount Guyot, and Mount Le Conte.",
+                "latitude": 35.611763,
+                "longitude": -83.489548,
+                "campgrounds": [
+                    {
+                        "name": "Spence Cabin   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/234712"
+                    },
+                    {
+                        "name": "Appalachian Clubhouse   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/233299"
+                    },
+                    {
+                        "name": "Elkmont Campground   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232487"
+                    },
+                    {
+                        "name": "Twin Creeks Picnic Pavilion   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232476"
+                    },
+                    {
+                        "name": "Elkmont Group Camp   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232436"
+                    },
+                    {
+                        "name": "Metcalf Bottoms Picnic Pavilion   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232477"
+                    },
+                    {
+                        "name": "Collins Creek Picnic Pavilion   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232480"
+                    },
+                    {
+                        "name": "Greenbrier Picnic Pavilion   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232475"
+                    },
+                    {
+                        "name": "Deep Creek Group Camp   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232478"
+                    },
+                    {
+                        "name": "Deep Creek Picnic Pavilion   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232435"
+                    },
+                    {
+                        "name": "Smokemont Campground   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232486"
+                    },
+                    {
+                        "name": "Smokemont Group Camp   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232441"
+                    },
+                    {
+                        "name": "Tow String Horse Camp   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232481"
+                    },
+                    {
+                        "name": "Anthony Creek Horse Camp   Great Smoky Mountains National Park Near Townsend, Tennessee",
+                        "link": "/camping/campgrounds/232485"
+                    },
+                    {
+                        "name": "Cades Cove Group   Great Smoky Mountains National Park Near Townsend, Tennessee",
+                        "link": "/camping/campgrounds/232440"
+                    },
+                    {
+                        "name": "Cades Cove Campground   Great Smoky Mountains National Park Near Townsend, Tennessee",
+                        "link": "/camping/campgrounds/232488"
+                    },
+                    {
+                        "name": "Round Bottom Horse Camp   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232483"
+                    },
+                    {
+                        "name": "Balsam Mountain Campground   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/273848"
+                    },
+                    {
+                        "name": "Cosby Campground   Great Smoky Mountains National Park Near Cosby, Tennessee",
+                        "link": "/camping/campgrounds/232479"
+                    },
+                    {
+                        "name": "Cosby Group Camp   Great Smoky Mountains National Park Near Cosby, Tennessee",
+                        "link": "/camping/campgrounds/232438"
+                    },
+                    {
+                        "name": "Cosby Picnic Pavilion   Great Smoky Mountains National Park Near Cosby, Tennessee",
+                        "link": "/camping/campgrounds/232439"
+                    },
+                    {
+                        "name": "Cataloochee Horse Camp   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/232482"
+                    },
+                    {
+                        "name": "Cataloochee Campground   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/233284"
+                    },
+                    {
+                        "name": "Abram'S Creek Campground   Great Smoky Mountains National Park Near Tallassee, Tennessee",
+                        "link": "/camping/campgrounds/273847"
+                    },
+                    {
+                        "name": "Cataloochee Group Camp   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/232434"
+                    },
+                    {
+                        "name": "Big Creek Group Camp   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/232437"
+                    },
+                    {
+                        "name": "Big Creek Campground (Great Smoky Mountains National Park)   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/273821"
+                    },
+                    {
+                        "name": "Big Creek Horse Camp   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/232484"
+                    }
+                ]
+            },
+            {
+                "name": "Theodore Roosevelt National Park",
+                "images": "/images/theodoreroosevelt.jpg",
+                "text": "Theodore Roosevelt National Park is an American national park comprising three geographically separated areas of badlands in western North Dakota. Honoring U.S. President Theodore Roosevelt, it is the only American national park named directly after a single person.\nThe park covers 70,446 acres (110.072 sq mi; 28,508 ha; 285.08 km2) of land in three sections: the North Unit, the South Unit, and the Elkhorn Ranch Unit.",
+                "latitude": 46.978965,
+                "longitude": -103.538709,
+                "campgrounds": [
+                    {
+                        "name": "Roundup Group Horse Camp   Theodore Roosevelt National Park Near Medora, North Dakota",
+                        "link": "/camping/campgrounds/251161"
+                    },
+                    {
+                        "name": "Cottonwood Campground (ND)   Theodore Roosevelt National Park Near Medora, North Dakota",
+                        "link": "/camping/campgrounds/251160"
+                    },
+                    {
+                        "name": "Juniper Campground Group Site   Theodore Roosevelt National Park Near Watford City, North Dakota",
+                        "link": "/camping/campgrounds/72481"
+                    }
+                ]
+            }
+        ]
+    },
+    "northdakota": {
+        "name": "North Dakota",
+        "parks": [
+            {
+                "name": "Theodore Roosevelt National Park",
+                "images": "/images/theodoreroosevelt.jpg",
+                "text": "Theodore Roosevelt National Park is an American national park comprising three geographically separated areas of badlands in western North Dakota. Honoring U.S. President Theodore Roosevelt, it is the only American national park named directly after a single person.\nThe park covers 70,446 acres (110.072 sq mi; 28,508 ha; 285.08 km2) of land in three sections: the North Unit, the South Unit, and the Elkhorn Ranch Unit.",
+                "latitude": 46.978965,
+                "longitude": -103.538709,
+                "campgrounds": [
+                    {
+                        "name": "Roundup Group Horse Camp   Theodore Roosevelt National Park Near Medora, North Dakota",
+                        "link": "/camping/campgrounds/251161"
+                    },
+                    {
+                        "name": "Cottonwood Campground (ND)   Theodore Roosevelt National Park Near Medora, North Dakota",
+                        "link": "/camping/campgrounds/251160"
+                    },
+                    {
+                        "name": "Juniper Campground Group Site   Theodore Roosevelt National Park Near Watford City, North Dakota",
+                        "link": "/camping/campgrounds/72481"
+                    }
+                ]
+            }
+        ]
+    },
+    "ohio": {
+        "name": "Ohio",
+        "parks": [
+            {
+                "name": "Cuyahoga Valley National Park",
+                "images": "/images/cuyahogavalley.jpg",
+                "text": "Cuyahoga Valley National Park is an American national park that preserves and reclaims the rural landscape along the Cuyahoga River between Akron and Cleveland in Northeast Ohio.\nThe 32,572-acre (50.9 sq mi; 131.8 km2) park is administered by the National Park Service, but within its boundaries are areas independently managed as county parks or as public or private businesses. Cuyahoga Valley was originally designated as a National Recreation Area in 1974, then redesignated as a national park 26 years later in 2000, and remains the only national park that originated as a national recreation area.",
+                "latitude": 41.2808,
+                "longitude": -81.5678,
+                "campgrounds": [
+                    {
+                        "name": "Cuyahoga Valley National Park Picnic Shelters   Cuyahoga Valley National Park Near Peninsula, Ohio",
+                        "link": "/camping/campgrounds/233367"
+                    }
+                ]
+            }
+        ]
+    },
+    "oklahoma": {
+        "name": "Oklahoma",
+        "parks": []
+    },
+    "oregon": {
+        "name": "Oregon",
+        "parks": [
+            {
+                "name": "Crater Lake National Park",
+                "images": "/images/craterlake.jpg",
+                "text": "Crater Lake National Park is an American national park located in southern Oregon. Established in 1902, Crater Lake is the fifth-oldest national park in the United States and the only national park in Oregon. The park encompasses the caldera of Crater Lake, a remnant of Mount Mazama, a destroyed volcano, and the surrounding hills and forests.",
+                "latitude": 42.8684,
+                "longitude": -122.1685,
+                "campgrounds": []
+            }
+        ]
+    },
+    "pennsylvania": {
+        "name": "Pennsylvania",
+        "parks": []
+    },
+    "rhodeisland": {
+        "name": "Rhode Island",
+        "parks": []
+    },
+    "southcarolina": {
+        "name": "South Carolina",
+        "parks": [
+            {
+                "name": "Congaree National Park",
+                "images": "/images/congaree.jpg",
+                "text": "Congaree National Park is a 26,276-acre (41.1 sq mi; 106.3 km2) American national park in central South Carolina, 18 miles southeast of the state capital, Columbia. The park preserves the largest tract of old growth bottomland hardwood forest left in the United States. The lush trees growing in its floodplain forest are some of the tallest in the eastern United States, forming one of the highest temperate deciduous forest canopies remaining in the world.",
+                "latitude": 33.7948,
+                "longitude": -80.7821,
+                "campgrounds": [
+                    {
+                        "name": "Congaree Picnic Shelter   Congaree National Park Near Columbia, South Carolina",
+                        "link": "/camping/campgrounds/10130529"
+                    },
+                    {
+                        "name": "Congaree National Park Camping   Congaree National Park Near Hopkins, South Carolina",
+                        "link": "/camping/campgrounds/251874"
+                    }
+                ]
+            }
+        ]
+    },
+    "southdakota": {
+        "name": "South Dakota",
+        "parks": [
+            {
+                "name": "Badlands National Park",
+                "images": "/images/badlands.jpg",
+                "text": "Badlands National Park (Lakota: Mak\u021f\u00f3\u0161i\u010da) is an American national park located in southwestern South Dakota. The park protects 242,756 acres (379.3 sq mi; 982.4 km2) of sharply eroded buttes and pinnacles, along with the largest undisturbed mixed grass prairie in the United States. The National Park Service manages the park, with the South Unit being co-managed with the Oglala Lakota tribe.The Badlands Wilderness protects 64,144 acres (100.2 sq mi; 259.6 km2) of the park as a designated wilderness area, and is one site where the black-footed ferret, one of the most endangered mammals in the world, was reintroduced to the wild.",
+                "latitude": 43.8554,
+                "longitude": -102.3397,
+                "campgrounds": []
+            },
+            {
+                "name": "Wind Cave National Park",
+                "images": "/images/windcave.jpg",
+                "text": "Wind Cave National Park is an American national park located 10 miles (16 km) north of the town of Hot Springs in western South Dakota. Established on January 3, 1903 by President Theodore Roosevelt, it was the seventh national park and the first cave to be designated a national park anywhere in the world. The cave is notable for its calcite formations known as boxwork, as well as its frostwork.",
+                "latitude": 43.5724,
+                "longitude": -103.4416,
+                "campgrounds": []
+            }
+        ]
+    },
+    "tennessee": {
+        "name": "Tennessee",
+        "parks": [
+            {
+                "name": "Great Smoky Mountains",
+                "images": "/images/greatsmokymountains.jpg",
+                "text": "The Great Smoky Mountains (Cherokee: \u13a1\u13c6 \u13da\u13e7\u13cd\u13da \u13d9\u13d3\u13b8, Equa Dutsusdu Dodalv) are a mountain range rising along the Tennessee\u2013North Carolina border in the southeastern United States.  They are a subrange of the Appalachian Mountains, and form part of the Blue Ridge Physiographic Province.  The range is sometimes called the Smoky Mountains and the name is commonly shortened to the Smokies.",
+                "latitude": 35.6131,
+                "longitude": -83.5532,
+                "campgrounds": [
+                    {
+                        "name": "Twin Creeks Picnic Pavilion   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232476"
+                    },
+                    {
+                        "name": "Elkmont Campground   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232487"
+                    },
+                    {
+                        "name": "Elkmont Group Camp   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232436"
+                    },
+                    {
+                        "name": "Spence Cabin   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/234712"
+                    },
+                    {
+                        "name": "Appalachian Clubhouse   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/233299"
+                    },
+                    {
+                        "name": "Greenbrier Picnic Pavilion   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232475"
+                    },
+                    {
+                        "name": "Metcalf Bottoms Picnic Pavilion   Great Smoky Mountains National Park Near Gatlinburg, Tennessee",
+                        "link": "/camping/campgrounds/232477"
+                    },
+                    {
+                        "name": "Collins Creek Picnic Pavilion   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232480"
+                    },
+                    {
+                        "name": "Cosby Campground   Great Smoky Mountains National Park Near Cosby, Tennessee",
+                        "link": "/camping/campgrounds/232479"
+                    },
+                    {
+                        "name": "Cosby Picnic Pavilion   Great Smoky Mountains National Park Near Cosby, Tennessee",
+                        "link": "/camping/campgrounds/232439"
+                    },
+                    {
+                        "name": "Cosby Group Camp   Great Smoky Mountains National Park Near Cosby, Tennessee",
+                        "link": "/camping/campgrounds/232438"
+                    },
+                    {
+                        "name": "Cades Cove Group   Great Smoky Mountains National Park Near Townsend, Tennessee",
+                        "link": "/camping/campgrounds/232440"
+                    },
+                    {
+                        "name": "Anthony Creek Horse Camp   Great Smoky Mountains National Park Near Townsend, Tennessee",
+                        "link": "/camping/campgrounds/232485"
+                    },
+                    {
+                        "name": "Cades Cove Campground   Great Smoky Mountains National Park Near Townsend, Tennessee",
+                        "link": "/camping/campgrounds/232488"
+                    },
+                    {
+                        "name": "Smokemont Campground   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232486"
+                    },
+                    {
+                        "name": "Smokemont Group Camp   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232441"
+                    },
+                    {
+                        "name": "Tow String Horse Camp   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232481"
+                    },
+                    {
+                        "name": "Round Bottom Horse Camp   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232483"
+                    },
+                    {
+                        "name": "Deep Creek Group Camp   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232478"
+                    },
+                    {
+                        "name": "Deep Creek Picnic Pavilion   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/232435"
+                    },
+                    {
+                        "name": "Big Creek Group Camp   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/232437"
+                    },
+                    {
+                        "name": "Big Creek Campground (Great Smoky Mountains National Park)   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/273821"
+                    },
+                    {
+                        "name": "Big Creek Horse Camp   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/232484"
+                    },
+                    {
+                        "name": "Balsam Mountain Campground   Great Smoky Mountains National Park Near Cherokee, North Carolina",
+                        "link": "/camping/campgrounds/273848"
+                    },
+                    {
+                        "name": "Cataloochee Campground   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/233284"
+                    },
+                    {
+                        "name": "Cataloochee Horse Camp   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/232482"
+                    },
+                    {
+                        "name": "Abram'S Creek Campground   Great Smoky Mountains National Park Near Tallassee, Tennessee",
+                        "link": "/camping/campgrounds/273847"
+                    },
+                    {
+                        "name": "Cataloochee Group Camp   Great Smoky Mountains National Park Near Waynesville, North Carolina",
+                        "link": "/camping/campgrounds/232434"
+                    }
+                ]
+            }
+        ]
+    },
+    "texas": {
+        "name": "Texas",
+        "parks": [
+            {
+                "name": "Big Bend National Park",
+                "images": "/images/bigbend.jpg",
+                "text": "Big Bend National Park is an American national park located in West Texas, bordering Mexico. The park has national significance as the largest protected area of Chihuahuan Desert topography and ecology in the United States, and was named after a large bend in the Rio Grande/R\u00edo Bravo. The park protects more than 1,200 species of plants, more than 450 species of birds, 56 species of reptiles, and 75 species of mammals.",
+                "latitude": 29.2498,
+                "longitude": -103.2502,
+                "campgrounds": [
+                    {
+                        "name": "Big Bend Backcountry Camping   Big Bend National Park Near Big Bend National Park, Texas",
+                        "link": "/camping/campgrounds/10028875"
+                    },
+                    {
+                        "name": "Chisos Basin (Big Bend)   Big Bend National Park Near Big Bend National Park, Texas",
+                        "link": "/camping/campgrounds/234038"
+                    },
+                    {
+                        "name": "Chisos Basin Group Campground   Big Bend National Park Near Big Bend National Park, Texas",
+                        "link": "/camping/campgrounds/234013"
+                    },
+                    {
+                        "name": "Rio Grande Village (Big Bend)   Big Bend National Park Near Big Bend National Park, Texas",
+                        "link": "/camping/campgrounds/234035"
+                    },
+                    {
+                        "name": "Rio Grande Village Group Campground   Big Bend National Park Near Big Bend National Park, Texas",
+                        "link": "/camping/campgrounds/234014"
+                    },
+                    {
+                        "name": "Cottonwood (TX)   Big Bend National Park Near Big Bend National Park, Texas",
+                        "link": "/camping/campgrounds/234078"
+                    }
+                ]
+            },
+            {
+                "name": "Guadalupe Mountains National Park",
+                "images": "/images/guadalupe.jpg",
+                "text": "Guadalupe Mountains National Park is an American national park in the Guadalupe Mountains, east of El Paso, Texas. The mountain range includes Guadalupe Peak, the highest point in Texas at 8,751 feet (2,667 m), and El Capitan used as a landmark by travelers on the route later followed by the Butterfield Overland Mail stagecoach line. The ruins of a stagecoach station stand near the Pine Springs visitor center.",
+                "latitude": 31.9231,
+                "longitude": -104.8645,
+                "campgrounds": [
+                    {
+                        "name": "Pine Springs Campground   Guadalupe Mountains National Park Near Salt Flat, Texas",
+                        "link": "/camping/campgrounds/258851"
+                    },
+                    {
+                        "name": "Dog Canyon Campground   Guadalupe Mountains National Park Near Carlsbad, New Mexico",
+                        "link": "/camping/campgrounds/258852"
+                    }
+                ]
+            }
+        ]
+    },
+    "utah": {
+        "name": "Utah",
+        "parks": [
+            {
+                "name": "Arches National Park",
+                "images": "/images/arches.jpg",
+                "text": "Arches National Park is a national park in eastern Utah, United States. The park is adjacent to the Colorado River, 4 miles (6 km) north of Moab, Utah. More than 2,000 natural sandstone arches are located in the park, including the well-known Delicate Arch, as well as a variety of unique geological resources and formations.",
+                "latitude": 38.7331,
+                "longitude": -109.5925,
+                "campgrounds": [
+                    {
+                        "name": "Devils Garden Campground   Arches National Park Near Moab, Utah",
+                        "link": "/camping/campgrounds/234059"
+                    }
+                ]
+            },
+            {
+                "name": "Bryce Canyon National Park",
+                "images": "/images/brycecanyon.jpg",
+                "text": "Bryce Canyon National Park () is an American national park located in southwestern Utah. The major feature of the park is Bryce Canyon, which despite its name, is not a canyon, but a collection of giant natural amphitheaters along the eastern side of the Paunsaugunt Plateau. Bryce is distinctive due to geological structures called hoodoos, formed by frost weathering and stream erosion of the river and lake bed sedimentary rocks.",
+                "latitude": 37.593,
+                "longitude": -112.1871,
+                "campgrounds": [
+                    {
+                        "name": "North Campground   Bryce Canyon National Park Near Bryce, Utah",
+                        "link": "/camping/campgrounds/234058"
+                    },
+                    {
+                        "name": "Sunset Campground   Bryce Canyon National Park Near Bryce, Utah",
+                        "link": "/camping/campgrounds/234079"
+                    }
+                ]
+            },
+            {
+                "name": "Canyonlands National Park",
+                "images": "/images/canyonlands.jpg",
+                "text": "Canyonlands National Park is an American national park located in southeastern Utah near the town of Moab. The park preserves a colorful landscape eroded into numerous canyons, mesas, and buttes by the Colorado River, the Green River, and their respective tributaries. Legislation creating the park was signed into law by President Lyndon Johnson on September 12, 1964.The park is divided into four districts: the Island in the Sky, the Needles, the Maze, and the combined rivers\u2014the Green and Colorado\u2014which carved two large canyons into the Colorado Plateau.",
+                "latitude": 38.2136,
+                "longitude": -109.9025,
+                "campgrounds": [
+                    {
+                        "name": "Canyonlands National Park Needles District Campground   Canyonlands National Park Near Moab, Utah",
+                        "link": "/camping/campgrounds/251535"
+                    }
+                ]
+            },
+            {
+                "name": "Capitol Reef National Park",
+                "images": "/images/capitolreef.jpg",
+                "text": "Capitol Reef National Park is an American national park in south-central Utah. The park is approximately 60 miles (97 km) long on its north\u2013south axis and just 6 miles (9.7 km) wide on average. The park was established in 1971 to preserve 241,904 acres (377.98 sq mi; 97,895.08 ha; 978.95 km2) of desert landscape and is open all year, with May through September being the highest visitation months.",
+                "latitude": 38.0896,
+                "longitude": -111.14991,
+                "campgrounds": [
+                    {
+                        "name": "Fruita Campground   Capitol Reef National Park Near Teasdale, Utah",
+                        "link": "/camping/campgrounds/272245"
+                    },
+                    {
+                        "name": "Capitol Reef Np Group Campsite   Capitol Reef National Park Near Teasdale, Utah",
+                        "link": "/camping/campgrounds/251709"
+                    }
+                ]
+            },
+            {
+                "name": "Zion National Park",
+                "images": "/images/zion.jpg",
+                "text": "Zion National Park is an American national park located in southwestern Utah near the town of Springdale. A prominent feature of the 229-square-mile (590 km2) park is Zion Canyon, which is 15 miles (24 km) long and up to 2,640 ft (800 m) deep. The canyon walls are reddish and tan-colored Navajo Sandstone eroded by the North Fork of the Virgin River.",
+                "latitude": 37.2982,
+                "longitude": -113.0263,
+                "campgrounds": [
+                    {
+                        "name": "South Campground (UT)   Zion National Park Near Springdale, Utah",
+                        "link": "/camping/campgrounds/272266"
+                    },
+                    {
+                        "name": "Watchman Campground   Zion National Park Near Springdale, Utah",
+                        "link": "/camping/campgrounds/232445"
+                    }
+                ]
+            }
+        ]
+    },
+    "vermont": {
+        "name": "Vermont",
+        "parks": [
+            {
+                "name": "Shenandoah National Park",
+                "images": "/images/shenandoah.jpg",
+                "text": "Shenandoah National Park  (often ) is an American national park that encompasses part of the Blue Ridge Mountains in the Commonwealth of Virginia. The park is long and narrow, with the Shenandoah River and its broad valley to the west, and the rolling hills of the Virginia Piedmont to the east. Skyline Drive is the main park road, generally traversing along the ridgeline of the mountains.",
+                "latitude": 38.4755,
+                "longitude": -78.4535,
+                "campgrounds": [
+                    {
+                        "name": "Big Meadows Campground - Shenandoah (VA)   Shenandoah National Park Near Stanley, Virginia",
+                        "link": "/camping/campgrounds/232459"
+                    },
+                    {
+                        "name": "Loft Mountain Campground   Shenandoah National Park Near Free Union, Virginia",
+                        "link": "/camping/campgrounds/232433"
+                    },
+                    {
+                        "name": "Mathews Arm Campground   Shenandoah National Park Near Luray, Virginia",
+                        "link": "/camping/campgrounds/232432"
+                    },
+                    {
+                        "name": "Dundo Group Campground   Shenandoah National Park Near Grottoes, Virginia",
+                        "link": "/camping/campgrounds/252470"
+                    }
+                ]
+            }
+        ]
+    },
+    "virginia": {
+        "name": "Virginia",
+        "parks": []
+    },
+    "washington": {
+        "name": "Washington",
+        "parks": [
+            {
+                "name": "Mount Rainier National Park",
+                "images": "/images/mountrainier.jpg",
+                "text": "Mount Rainier National Park is an American national park located in southeast Pierce County and northeast Lewis County in Washington state. The park was established on March 2, 1899, as the fifth national park in the United States, preserving 236,381 acres (369.3 sq mi; 956.6 km2) including all of Mount Rainier, a 14,411-foot (4,392 m) stratovolcano. The mountain rises abruptly from the surrounding land with elevations in the park ranging from 1,600 feet to over 14,000 feet (490\u20134,300 m).",
+                "latitude": 46.88,
+                "longitude": -121.7269,
+                "campgrounds": [
+                    {
+                        "name": "Cougar Rock Campground   Mount Rainier National Park Near Ashford, Washington",
+                        "link": "/camping/campgrounds/232466"
+                    },
+                    {
+                        "name": "Cougar Rock Group Campground   Mount Rainier National Park Near Ashford, Washington",
+                        "link": "/camping/campgrounds/232510"
+                    },
+                    {
+                        "name": "Ohanapecosh Campground   Mount Rainier National Park Near Packwood, Washington",
+                        "link": "/camping/campgrounds/232465"
+                    },
+                    {
+                        "name": "Ohanapecosh Group Campground   Mount Rainier National Park Near Packwood, Washington",
+                        "link": "/camping/campgrounds/232509"
+                    }
+                ]
+            },
+            {
+                "name": "North Cascades National Park",
+                "images": "/images/northcascades.jpg",
+                "text": "North Cascades National Park is an American national park in the state of Washington. At more than 500,000 acres (200,000 ha), it is the largest of the three National Park Service units that comprise the North Cascades National Park Complex. North Cascades National Park consists of a northern and southern section, bisected by the Skagit River that flows through the reservoirs of Ross Lake National Recreation Area.",
+                "latitude": 48.7718,
+                "longitude": -121.2985,
+                "campgrounds": [
+                    {
+                        "name": "Gorge Lake Campground   North Cascades National Park Near Rockport, Washington",
+                        "link": "/camping/campgrounds/10004932"
+                    },
+                    {
+                        "name": "Newhalem Campground   North Cascades National Park Near Rockport, Washington",
+                        "link": "/camping/campgrounds/234060"
+                    },
+                    {
+                        "name": "Lower Goodell Group Campground   North Cascades National Park Near Rockport, Washington",
+                        "link": "/camping/campgrounds/234088"
+                    },
+                    {
+                        "name": "Upper Goodell Group Campground   North Cascades National Park Near Rockport, Washington",
+                        "link": "/camping/campgrounds/234089"
+                    },
+                    {
+                        "name": "Goodell Creek Campground   North Cascades National Park Near Rockport, Washington",
+                        "link": "/camping/campgrounds/246852"
+                    },
+                    {
+                        "name": "Colonial Creek South Campground   North Cascades National Park Near Rockport, Washington",
+                        "link": "/camping/campgrounds/255201"
+                    },
+                    {
+                        "name": "Colonial Creek North Campground   North Cascades National Park Near Darrington, Washington",
+                        "link": "/camping/campgrounds/246855"
+                    }
+                ]
+            },
+            {
+                "name": "Olympic National Park",
+                "images": "/images/olympic.jpg",
+                "text": "Olympic National Park is a United States national park located in the State of Washington, on the Olympic Peninsula. The park has four regions: the Pacific coastline, alpine areas, the west-side temperate rainforest, and the forests of the drier east side. Within the park there are three distinct ecosystems, including subalpine forest and wildflower meadow, temperate forest, and the rugged Pacific coast.President Theodore Roosevelt originally designated the park as Mount Olympus National Monument on March 2, 1909.",
+                "latitude": 47.8021,
+                "longitude": -123.6044,
+                "campgrounds": [
+                    {
+                        "name": "Hoh Rainforest Campground   Olympic National Park Near Forks, Washington",
+                        "link": "/camping/campgrounds/247592"
+                    },
+                    {
+                        "name": "Sol Duc Hot Springs Resort Campground   Olympic National Park Near Port Angeles, Washington",
+                        "link": "/camping/campgrounds/251906"
+                    },
+                    {
+                        "name": "Kalaloch   Olympic National Park Near Forks, Washington",
+                        "link": "/camping/campgrounds/232464"
+                    }
+                ]
+            }
+        ]
+    },
+    "westvirginia": {
+        "name": "West Virginia",
+        "parks": [
+            {
+                "name": "New River Gorge National Park",
+                "images": "/images/westvirginia.jpg",
+                "text": "The New River Gorge National Park and Preserve is a unit of the United States National Park Service (NPS) designed to protect and maintain the New River Gorge in southern West Virginia in the Appalachian Mountains.  Established in 1978 as a national river and redesignated in 2020, the park and preserve stretches for 53 miles (85 km) from just downstream of Hinton to Hawks Nest State Park near Ansted. The park is rich in cultural and natural history, and offers an abundance of scenic and recreational opportunities.",
+                "latitude": 37.8772,
+                "longitude": -81.0175,
+                "campgrounds": [
+                    {
+                        "name": "Grandview Shelter 3   New River Gorge New River Gorge National Park and Preserve Near Beaver, West Virginia",
+                        "link": "/camping/campgrounds/251786"
+                    },
+                    {
+                        "name": "Grandview Playground Shelter   New River Gorge New River Gorge National Park and Preserve Near Beaver, West Virginia",
+                        "link": "/camping/campgrounds/251783"
+                    },
+                    {
+                        "name": "Grandview Shelter 2   New River Gorge New River Gorge National Park and Preserve Near Beaver, West Virginia",
+                        "link": "/camping/campgrounds/251787"
+                    },
+                    {
+                        "name": "Grandview Shelter 4   New River Gorge New River Gorge National Park and Preserve Near Beaver, West Virginia",
+                        "link": "/camping/campgrounds/251785"
+                    },
+                    {
+                        "name": "Grandview Shelter 1   New River Gorge New River Gorge National Park and Preserve Near Beaver, West Virginia",
+                        "link": "/camping/campgrounds/251784"
+                    }
+                ]
+            }
+        ]
+    },
+    "wisconsin": {
+        "name": "Wisconsin",
+        "parks": []
+    },
+    "wyoming": {
+        "name": "Wyoming",
+        "parks": [
+            {
+                "name": "Grand Teton National Park",
+                "images": "/images/grandteton.jpg",
+                "text": "Grand Teton National Park is an American national park in northwestern Wyoming. At approximately 310,000 acres (1,300 km2), the park includes the major peaks of the 40-mile-long (64 km) Teton Range as well as most of the northern sections of the valley known as Jackson Hole. Grand Teton National Park is only 10 miles (16 km) south of Yellowstone National Park, to which it is connected by the National Park Service\u2013managed John D. Rockefeller Jr.",
+                "latitude": 43.7904,
+                "longitude": -110.6818,
+                "campgrounds": [
+                    {
+                        "name": "Jenny Lake Campground   Grand Teton National Park Near Alta, Wyoming",
+                        "link": "/camping/campgrounds/247664"
+                    },
+                    {
+                        "name": "Signal Mountain Campground   Grand Teton National Park Near Moran, Wyoming",
+                        "link": "/camping/campgrounds/247663"
+                    },
+                    {
+                        "name": "Colter Bay Rv Park   Grand Teton National Park Near Moran, Wyoming",
+                        "link": "/camping/campgrounds/258831"
+                    },
+                    {
+                        "name": "Colter Bay Campground   Grand Teton National Park Near Moran, Wyoming",
+                        "link": "/camping/campgrounds/258830"
+                    },
+                    {
+                        "name": "Colter Bay Tent Village   Grand Teton National Park Near Moran, Wyoming",
+                        "link": "/camping/campgrounds/10099575"
+                    },
+                    {
+                        "name": "Lizard Creek Campground   Grand Teton National Park Near Moran, Wyoming",
+                        "link": "/camping/campgrounds/247785"
+                    },
+                    {
+                        "name": "Gros Ventre Campground   Grand Teton National Park Near Kelly, Wyoming",
+                        "link": "/camping/campgrounds/247661"
+                    },
+                    {
+                        "name": "Headwaters Campground at Flagg Ranch   Grand Teton National Park Near Alta, Wyoming",
+                        "link": "/camping/campgrounds/258832"
+                    }
+                ]
+            },
+            {
+                "name": "Yellowstone National Park",
+                "images": "/images/yellowstone.jpg",
+                "text": "",
+                "latitude": 44.428,
+                "longitude": -110.5885,
+                "campgrounds": [
+                    {
+                        "name": "Indian Creek Campground (Yellowstone)   Yellowstone National Park Near Mammoth Hot Springs, Wyoming",
+                        "link": "/camping/campgrounds/259304"
+                    },
+                    {
+                        "name": "Lewis Lake Campground   Yellowstone National Park Near Moran, Wyoming",
+                        "link": "/camping/campgrounds/259309"
+                    },
+                    {
+                        "name": "Mammoth Campground (Yellowstone)   Yellowstone National Park Near Mammoth Hot Springs, Wyoming",
+                        "link": "/camping/campgrounds/247571"
+                    },
+                    {
+                        "name": "Slough Creek Campground   Yellowstone National Park Near Yellowstone National Park, Wyoming",
+                        "link": "/camping/campgrounds/259310"
+                    },
+                    {
+                        "name": "Pebble Creek Campground   Yellowstone National Park Near Yellowstone National Park, Wyoming",
+                        "link": "/camping/campgrounds/259307"
+                    }
+                ]
+            }
+        ]
+    }
+}

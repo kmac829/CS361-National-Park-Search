@@ -1,0 +1,694 @@
+{
+    "alabama": {
+        "name": "Alabama",
+        "parks": []
+    },
+    "alaska": {
+        "name": "Alaska",
+        "parks": [
+            {
+                "name": "Denali National Park",
+                "images": "/images/denali.jpg",
+                "text": "Denali National Park and Preserve, formerly known as Mount McKinley National Park, is an American national park and preserve located in Interior Alaska, centered on Denali, the highest mountain in North America. The park and contiguous preserve encompass 6,045,153 acres (9,446 sq mi; 24,464 km2) which is larger than the state of New Hampshire. On December 2, 1980,  2,146,580-acre (3,354 sq mi; 8,687 km2) Denali Wilderness was established within the park. Denali's landscape is a mix of forest at the lowest elevations, including deciduous taiga, with tundra at middle elevations, and glaciers, snow, and bare rock at the highest elevations. The longest glacier is the Kahiltna Glacier. Wintertime activities include dog sledding, cross-country skiing, and snowmobiling.",
+                "latitude": 63.129887,
+                "longitude": -151.197418
+            },
+            {
+                "name": "Gates of the Arctic National Park",
+                "images": "/images/gatesofarctic.jpg",
+                "text": "Gates of the Arctic National Park and Preserve is an American national park that protects portions of the Brooks Range in northern Alaska. The park is the northernmost national park in the United States, situated entirely north of the Arctic Circle. The park is the second largest in the U.S. at 8,472,506 acres (13,238 sq mi; 34,287 km2), slightly larger in area than Belgium.\nGates of the Arctic was initially designated as a national monument on December 1, 1978, before being redesignated as a national park and preserve upon passage of the Alaska National Interest Lands Conservation Act in 1980. A large part of the park has additional protection as the Gates of the Arctic Wilderness which covers 7,167,192 acres (2,900,460 ha). The wilderness area adjoins the Noatak Wilderness.",
+                "latitude": 67.915199,
+                "longitude": -153.46373
+            },
+            {
+                "name": "Glacier Bay National Park",
+                "images": "/images/glacierbay.jpg",
+                "text": "Glacier Bay National Park and Preserve is an American national park located in Southeast Alaska west of Juneau. President Calvin Coolidge proclaimed the area around Glacier Bay a national monument under the Antiquities Act on February 26, 1925. Subsequent to an expansion of the monument by President Jimmy Carter in 1978, the Alaska National Interest Lands Conservation Act (ANILCA) enlarged the national monument by 523,000 acres (817.2 sq mi; 2,116.5 km2) on December 2, 1980, and created Glacier Bay National Park and Preserve. The national preserve encompasses 58,406 acres (91.3 sq mi; 236.4 km2) of public land to the immediate northwest of the park, protecting a portion of the Alsek River with its fish and wildlife habitats, while allowing sport hunting.\nGlacier Bay became part of a binational UNESCO World Heritage Site in 1979, and was inscribed as a Biosphere Reserve in 1986. The National Park Service undertook an obligation to work with Hoonah and Yakutat Tlingit Native American organizations in the management of the protected area in 1994.",
+                "latitude": 58.665806,
+                "longitude": -136.900208
+            },
+            {
+                "name": "Katmai National Park",
+                "images": "/images/katmai.jpg",
+                "text": "Katmai National Park and Preserve is an American national park and preserve in southwest Alaska, notable for the Valley of Ten Thousand Smokes and for its brown bears. The park and preserve encompass 4,093,077 acres (6,395.43 sq mi; 16,564.09 km2), which is between the sizes of Connecticut and New Jersey. Most of the national park is a designated wilderness area. The park is named after Mount Katmai, its centerpiece stratovolcano. The park is located on the Alaska Peninsula, across from Kodiak Island, with headquarters in nearby King Salmon, about 290 miles (470 km) southwest of Anchorage. The area was first designated a national monument in 1918 to protect the area around the major 1912 volcanic eruption of Novarupta, which formed the Valley of Ten Thousand Smokes, a 40-square-mile (100 km2), 100-to-700-foot-deep (30 to 213 m) pyroclastic flow.",
+                "latitude": 58.597813,
+                "longitude": -154.693756
+            },
+            {
+                "name": "Kenai Fjords National Park",
+                "images": "/images/kenaifjords.jpg",
+                "text": "Kenai Fjords National Park is an American national park that maintains the Harding Icefield, its outflowing glaciers, and coastal fjords and islands. The park covers an area of 669,984 acres (1,046.9 sq mi; 2,711.3 km2) on the Kenai Peninsula in south-central Alaska, west of the town of Seward.\nThe park contains the Harding Icefield, one of the largest ice fields in the United States, and is named for the numerous fjords carved by glaciers moving down the mountains from the ice field. The field is the source of at least 38 glaciers, the largest of which is Bear Glacier. The fjords are glacial valleys that have been submerged below sea level by a combination of rising sea levels and land subsidence. Exit Glacier is a popular destination at the end of the park's only road.",
+                "latitude": 60.043777,
+                "longitude": -149.81636
+            },
+            {
+                "name": "Kobuk Valley National Park",
+                "images": "/images/kobukvalley.jpg",
+                "text": "Kobuk Valley National Park is an American national park in the Arctic region of northwestern Alaska, located about 25 miles (40 km) north of the Arctic Circle. The park was designated in 1980 by the Alaska National Interest Lands Conservation Act to preserve the 100 ft (30 m) high Great Kobuk Sand Dunes and the surrounding area which includes caribou migration routes. Park visitors must bring all their own gear for backcountry camping, hiking, backpacking, boating, and dog sledding. No designated trails or roads exist in the park, which at 1,750,716 acres (2,735.5 sq mi; 7,084.9 km2), is slightly larger than the state of Delaware. Kobuk Valley is one of eight national parks in Alaska, the state with the second most national parks, surpassed only by California which has nine. The park is managed by the National Park Service.",
+                "latitude": 67.3533647,
+                "longitude": -159.1988853
+            },
+            {
+                "name": "Lake Clark National Park",
+                "images": "/images/lakeclark.jpg",
+                "text": "Lake Clark National Park and Preserve is an American national park in southwest Alaska, about 100 miles (160 km) southwest of Anchorage. The park was first proclaimed a national monument in 1978, then established as a national park and preserve in 1980 by the Alaska National Interest Lands Conservation Act. The park includes many streams and lakes vital to the Bristol Bay salmon fishery, including its namesake Lake Clark. A wide variety of recreational activities may be pursued in the park and preserve year-round. The park protects rainforests along the coastline of Cook Inlet, alpine tundra, glaciers, glacial lakes, major salmon-bearing rivers, and two volcanoes, Mount Redoubt and Mount Iliamna. Mount Redoubt is active, erupting in 1989 and 2009.",
+                "latitude": 60.412697,
+                "longitude": -154.323502
+            },
+            {
+                "name": "Wrangell-St.Elias National Park",
+                "images": "/images/wrangellstelias.jpg",
+                "text": "",
+                "latitude": 61.710445,
+                "longitude": -142.985687
+            }
+        ]
+    },
+    "arizona": {
+        "name": "Arizona",
+        "parks": [
+            {
+                "name": "Grand Canyon National Park",
+                "images": "/images/grandcanyon.jpg",
+                "text": "Grand Canyon National Park, located in northwestern Arizona, is the 15th site in the United States to have been named as a national park. The park's central feature is the Grand Canyon, a gorge of the Colorado River, which is often considered one of the Wonders of the World. The park, which covers 1,217,262 acres (1,901.972 sq mi; 4,926.08 km2) of unincorporated area in Coconino and Mohave counties, received more than six million recreational visitors in 2017, which is the second highest count of all American national parks after Great Smoky Mountains National Park. The Grand Canyon was designated a World Heritage Site by UNESCO in 1979. The park celebrated its 100th anniversary on February 26, 2019.\n\n\n== History ==\n\nThe Grand Canyon became well known to Americans in the 1880s after railroads were built and pioneers developed infrastructure and early tourism.",
+                "latitude": 36.0544445,
+                "longitude": -112.1401108
+            },
+            {
+                "name": "Petrified Forest",
+                "images": "/images/petrifiedforest.jpg",
+                "text": "Petrified wood, also known as petrified tree (from Ancient Greek \u03c0\u03ad\u03c4\u03c1\u03b1 meaning 'rock' or 'stone'; literally 'wood turned into stone'), is the name given to a special type of fossilized wood, the fossilized remains of terrestrial vegetation. Petrifaction is the result of a tree or tree-like plants having been replaced by stone via a mineralization process that often includes permineralization and replacement. The organic materials making up cell walls have been replicated with minerals (mostly silica in the form of opal, chalcedony, or quartz). In some instances, the original structure of the stem tissue may be partially retained. Unlike other plant fossils, which are typically impressions or compressions, petrified wood is a three-dimensional representation of the original organic material.\nThe petrifaction process occurs underground, when wood becomes buried in water-saturated sediment or volcanic ash.",
+                "latitude": 34.909988,
+                "longitude": -109.806793
+            },
+            {
+                "name": "Saguaro National Park",
+                "images": "/images/saguaro.jpg",
+                "text": "Saguaro National Park is an American national park in Pima County, southeastern Arizona. The 92,000-acre (37,000 ha) park consists of two separate areas\u2014the Tucson Mountain District (TMD) about 10 miles (16 km) west of the city of Tucson and the Rincon Mountain District (RMD) about 10 miles (16 km) east of the city\u2014that preserve Sonoran Desert landscapes, fauna, and flora, including the giant saguaro cactus.\nThe volcanic rocks on the surface of the Tucson Mountain District differ greatly from the surface rocks of the Rincon Mountain District; over the past 30 million years, crustal stretching displaced rocks from beneath the Tucson Mountains of the Tucson Mountain District to form the Rincon Mountains of the Rincon Mountain District. Uplifted, domed, and eroded, the Rincon Mountains are significantly higher and wetter than the Tucson Mountains. The Rincons, as one of the Madrean Sky Islands between the southern Rocky Mountains and the Sierra Madre Oriental in Mexico, support high biodiversity and are home to many plants and animals that do not live in the Tucson Mountain District.\nEarlier residents of and visitors to the lands in and around the park before its creation included the Hohokam, Sobaipuri, Tohono O'odham, Apaches, Spanish explorers, missionaries, miners, homesteaders, and ranchers.",
+                "latitude": 32.296738,
+                "longitude": -111.166618
+            }
+        ]
+    },
+    "arkansas": {
+        "name": "Arkansas",
+        "parks": [
+            {
+                "name": "Hot Springs National Park",
+                "images": "/images/hotsprings.jpg",
+                "text": "Hot Springs National Park is an American national park in central Garland County, Arkansas, adjacent to the city of Hot Springs, the county seat. Hot Springs Reservation was initially created by an act of the United States Congress on April 20, 1832 to be preserved for future recreation. Established before the concept of a national park existed, it was the first time that land had been set aside by the federal government to preserve its use as an area for recreation. The hot spring water has been popularly believed for centuries to possess medicinal properties, and was a subject of legend among several Native American tribes. Following federal protection in 1832, the city developed into a successful spa town.\nIncorporated January 10, 1851, the city was known in the early 20th century as the home to Major League Baseball spring training, illegal gambling, speakeasies during the Prohibition era, and gangsters such as Al Capone, horse racing at Oaklawn Park, the Army and Navy Hospital, and 42nd President Bill Clinton.",
+                "latitude": 34.52153,
+                "longitude": -93.042267
+            }
+        ]
+    },
+    "california": {
+        "name": "California",
+        "parks": [
+            {
+                "name": "Channel Islands National Park",
+                "images": "/images/channelislands.jpg",
+                "text": "Channel Islands National Park consists of five of the eight Channel Islands off the Pacific coast of the U.S. state of California. Although the islands are close to the shore of the densely populated state, they have been relatively undeveloped. The park covers 249,561 acres (100,994 ha), of which 79,019 acres (31,978 ha) are federal land. The Nature Conservancy owns and manages 76% of Santa Cruz Island, the largest of the eight.The islands are home to significant natural and cultural resources, resulting in several designations. Anacapa and Santa Barbara islands were made a national monument in 1938. All eight islands became a biosphere reserve under UNESCO in 1976.",
+                "latitude": 33.998028,
+                "longitude": -119.772949
+            },
+            {
+                "name": "Death Valley National Park",
+                "images": "/images/deathvalley.jpg",
+                "text": "Death Valley National Park is an American national park that straddles the California\u2013Nevada border, east of the Sierra Nevada. The park boundaries include Death Valley, the northern section of Panamint Valley, the southern section of Eureka Valley and most of Saline Valley. The park occupies an interface zone between the arid Great Basin and Mojave deserts, protecting the northwest corner of the Mojave Desert and its diverse environment of salt-flats, sand dunes, badlands, valleys, canyons and mountains. Death Valley is the largest national park in the contiguous United States, as well as the hottest, driest and lowest of all the national parks in the United States. It contains Badwater Basin, the second-lowest point in the Western Hemisphere at 282 feet (86 m) below sea level. More than 93% of the park is a designated wilderness area.",
+                "latitude": 36.4643308,
+                "longitude": -116.86906640000001
+            },
+            {
+                "name": "Joshua Tree National Park",
+                "images": "/images/joshuatree.jpg",
+                "text": "Joshua Tree National Park is an American national park in southeastern California, east of San Bernardino and Los Angeles and north Palm Springs. It is named after the Joshua trees (Yucca brevifolia) native to the Mojave Desert. Originally declared a national monument in 1936, Joshua Tree was redesignated as a national park in 1994 when the U.S. Congress passed the California Desert Protection Act. Encompassing a total of 790,636 acres (1,235.4 sq mi; 3,199.6 km2) \u2013 slightly larger than the state of Rhode Island \u2013 the park includes 429,690 acres (671.4 sq mi; 1,738.9 km2) of designated wilderness. Straddling San Bernardino and Riverside Counties, the park includes parts of two deserts, each an ecosystem whose characteristics are determined primarily by elevation: the higher Mojave Desert and the lower Colorado Desert. The Little San Bernardino Mountains traverse the southwest edge of the park.",
+                "latitude": 33.881866,
+                "longitude": -115.90065
+            },
+            {
+                "name": "Kings Canyon",
+                "images": "/images/kingscanyon.jpg",
+                "text": "Kings Canyon National Park is an American national park in the southern Sierra Nevada, in Fresno and Tulare Counties, California. Originally established in 1890 as General Grant National Park, the park was greatly expanded and renamed to Kings Canyon National Park on March 4, 1940. The park's namesake, Kings Canyon, is a rugged glacier-carved valley more than a mile (1,600 m) deep. Other natural features include multiple 14,000-foot (4,300 m) peaks, high mountain meadows, swift-flowing rivers, and some of the world's largest stands of giant sequoia trees. Kings Canyon is north of and contiguous with Sequoia National Park, and both parks are jointly administered by the National Park Service as the Sequoia and Kings Canyon National Parks.\nThe majority of the 461,901-acre (186,925 ha) park, drained by the Middle and South Forks of the Kings River and many smaller streams, is designated wilderness.",
+                "latitude": 36.887856,
+                "longitude": -118.555145
+            },
+            {
+                "name": "Lassen Volcanic National Park",
+                "images": "/images/lassenvolcanic.jpg",
+                "text": "Lassen Volcanic National Park is an American national park in northeastern California. The dominant feature of the park is Lassen Peak, the largest plug dome volcano in the world and the southernmost volcano in the Cascade Range. Lassen Volcanic National Park is one of the few areas in the world where all four types of volcano can be found\u2014plug dome, shield, cinder cone, and stratovolcano.The source of heat for the volcanism in the Lassen area is subduction of the Gorda Plate diving below the North American Plate off the Northern California coast. The area surrounding Lassen Peak is still active with boiling mud pots, fumaroles, and hot springs.Lassen Volcanic National Park started as two separate national monuments designated by President Theodore Roosevelt in 1907: Cinder Cone National Monument and Lassen Peak National Monument. Starting in May 1914 and lasting until 1917, a series of minor to major eruptions occurred on Lassen. Because of the eruptive activity and the area's stark volcanic beauty, Lassen Peak, Cinder Cone, and the area surrounding were established as a National Park on August 9, 1916.",
+                "latitude": 40.560575,
+                "longitude": -121.4206552
+            },
+            {
+                "name": "Pinnacles National Park",
+                "images": "/images/pinnacles.jpg",
+                "text": "Pinnacles National Park is an American national park protecting a mountainous area located east of the Salinas Valley in Central California, about five miles (8.0 km) east of Soledad and 80 miles (130 km) southeast of San Jose. The park's namesakes are the eroded leftovers of the western half of an extinct volcano that has moved 200 miles (320 km) from its original location on the San Andreas Fault, embedded in a portion of the California Pacific Coast Ranges. Pinnacles is managed by the National Park Service and the majority of the park is protected as wilderness.\nThe national park is divided by the rock formations into East and West Divisions, connected only by foot trails. The east side has shade and water, the west has high walls. The rock formations provide for spectacular pinnacles that attract rock climbers.",
+                "latitude": 36.491508,
+                "longitude": -121.197243
+            },
+            {
+                "name": "Redwood National Park",
+                "images": "/images/redwood.jpg",
+                "text": "",
+                "latitude": 41.213181,
+                "longitude": -124.004631
+            },
+            {
+                "name": "Sequoia National Park",
+                "images": "/images/sequoia.jpg",
+                "text": "Sequoia National Park is an American national park in the southern Sierra Nevada east of Visalia, California. The park was established on September 25, 1890, to protect 404,064 acres (631 sq mi; 163,519 ha; 1,635 km2) of forested mountainous terrain. Encompassing a vertical relief of nearly 13,000 feet (4,000 m), the park contains the highest point in the contiguous United States, Mount Whitney, at 14,505 feet (4,421 m) above sea level. The park is south of, and contiguous with, Kings Canyon National Park; both parks are administered by the National Park Service together as the Sequoia and Kings Canyon National Parks. UNESCO designated the areas as Sequoia-Kings Canyon Biosphere Reserve in 1976.The park is notable for its giant sequoia trees, including the General Sherman tree, the largest tree on Earth by volume. The General Sherman tree grows in the Giant Forest, which contains five of the ten largest trees in the world.",
+                "latitude": 36.486366,
+                "longitude": " -118.565750"
+            },
+            {
+                "name": "Yosemite National Park",
+                "images": "/images/yosemite.jpg",
+                "text": "Yosemite National Park ( yoh-SEM-ih-tee) is an American national park in California, surrounded on the southeast by Sierra National Forest and on the northwest by Stanislaus National Forest. The park is managed by the National Park Service and covers an area of 759,620 acres (1,187 sq mi; 3,074 km2) and sits in four counties \u2013 centered in Tuolumne and Mariposa, extending north and east to Mono and south to Madera County. Designated a World Heritage Site in 1984, Yosemite is internationally recognized for its granite cliffs, waterfalls, clear streams, giant sequoia groves, lakes, mountains, meadows, glaciers, and biological diversity. Almost 95 percent of the park is designated wilderness.Yosemite is one of the largest and least fragmented habitat blocks in the Sierra Nevada, and the park supports a diversity of plants and animals. The park has an elevation range from 2,127 to 13,114 feet (648 to 3,997 m) and contains five major vegetation zones: chaparral and oak woodland, lower montane forest, upper montane forest, subalpine zone, and alpine. Of California's 7,000 plant species, approximately 50 percent occur in the Sierra Nevada and more than 20 percent are within Yosemite.",
+                "latitude": 37.865101,
+                "longitude": -119.53833
+            }
+        ]
+    },
+    "colorado": {
+        "name": "Colorado",
+        "parks": [
+            {
+                "name": "Black Canyon of the Gunnison National Park",
+                "images": "/images/blackcanyon.jpg",
+                "text": "Black Canyon of the Gunnison National Park is an American national park located in western Colorado and managed by the National Park Service. There are two primary entrances to the park: the south rim entrance is located 15 miles (24 km) east of Montrose, while the north rim entrance is 11 miles (18 km) south of Crawford and is closed in the winter. The park contains 12 miles (19 km) of the 48-mile (77 km) long Black Canyon of the Gunnison River. The national park itself contains the deepest and most dramatic section of the canyon, but the canyon continues upstream into Curecanti National Recreation Area and downstream into Gunnison Gorge National Conservation Area. The canyon's name owes itself to the fact that parts of the gorge only receive 33 minutes of sunlight a day, according to Images of America: The Black Canyon of the Gunnison. In the book, author Duane Vandenbusche states, \"Several canyons of the American West are longer and some are deeper, but none combines the depth, sheerness, narrowness, darkness, and dread of the Black Canyon.\"\n\n\n== Geology ==\n\nThe Gunnison River drops an average of 34 feet per mile (6.4 m/km) through the entire canyon, making it the 5th steepest mountain descent in North America.",
+                "latitude": 38.5753936,
+                "longitude": -107.74159609999998
+            },
+            {
+                "name": "Great Sand Dunes National Park",
+                "images": "/images/greatsanddunes.jpg",
+                "text": "Great Sand Dunes National Park and Preserve is an American national park that conserves an area of large sand dunes up to 750 feet (230 m) tall on the eastern edge of the San Luis Valley, and an adjacent national preserve in the Sangre de Cristo Range, in south-central Colorado, United States. The park was originally designated Great Sand Dunes National Monument on March 17, 1932, by President Herbert Hoover. The original boundaries protected an area of 35,528 acres (55.5 sq mi; 143.8 km2). A boundary change and redesignation as a national park and preserve was authorized on November 22, 2000, and then established on September 24, 2004. The park encompasses 107,342 acres (167.7 sq mi; 434.4 km2) while the preserve protects an additional 41,686 acres (65.1 sq mi; 168.7 km2) for a total of 149,028 acres (232.9 sq mi; 603.1 km2). The recreational visitor total was 527,546 in 2019.The park contains the tallest sand dunes in North America.",
+                "latitude": 37.732777777778,
+                "longitude": " -105.51222222222"
+            },
+            {
+                "name": "Mesa Verde National Park",
+                "images": "/images/mesaverde.jpg",
+                "text": "Mesa Verde National Park is an American national park and UNESCO World Heritage Site located in Montezuma County, Colorado. The park protects some of the best-preserved Ancestral Puebloan archaeological sites in the United States.\nEstablished by Congress and President Theodore Roosevelt in 1906, the park occupies 52,485 acres (21,240 ha) near the Four Corners region of the American Southwest. With more than 5,000 sites, including 600 cliff dwellings, it is the largest archaeological preserve in the United States. Mesa Verde (Spanish for \"green table\") is best known for structures such as Cliff Palace, thought to be the largest cliff dwelling in North America.\nStarting c.\u20097500 BC Mesa Verde was seasonally inhabited by a group of nomadic Paleo-Indians known as the Foothills Mountain Complex.",
+                "latitude": 37.230873,
+                "longitude": -108.461838
+            },
+            {
+                "name": "Rocky Mountain National Park",
+                "images": "/images/rockymountain.jpg",
+                "text": "Rocky Mountain National Park is an American national park located approximately 55 mi (89 km) northwest of Denver in north-central Colorado, within the Front Range of the Rocky Mountains. The park is situated between the towns of Estes Park to the east and Grand Lake to the west. The eastern and western slopes of the Continental Divide run directly through the center of the park with the headwaters of the Colorado River located in the park's northwestern region. The main features of the park include mountains, alpine lakes and a wide variety of wildlife within various climates and environments, from wooded forests to mountain tundra.\nThe Rocky Mountain National Park Act was signed by President Woodrow Wilson on January 26, 1915, establishing the park boundaries and protecting the area for future generations. The Civilian Conservation Corps built the main automobile route, Trail Ridge Road, in the 1930s.",
+                "latitude": 40.343182,
+                "longitude": -105.688103
+            }
+        ]
+    },
+    "connecticut": {
+        "name": "Connecticut",
+        "parks": []
+    },
+    "delaware": {
+        "name": "Delaware",
+        "parks": []
+    },
+    "florida": {
+        "name": "Florida",
+        "parks": [
+            {
+                "name": "Biscayne National Park",
+                "images": "/images/biscayne.jpg",
+                "text": "Biscayne National Park is an American national park in southern Florida, south of Miami. The park preserves Biscayne Bay and its offshore barrier reefs. Ninety-five percent of the park is water, and the shore of the bay is the location of an extensive mangrove forest. The park covers 172,971 acres (270.3 sq mi; 700.0 km2) and includes Elliott Key, the park's largest island and northernmost of the true Florida Keys, formed from fossilized coral reef. The islands farther north in the park are transitional islands of coral and sand. The offshore portion of the park includes the northernmost region of the Florida Reef, one of the largest coral reefs in the world.",
+                "latitude": 25.482423,
+                "longitude": -80.334822
+            },
+            {
+                "name": "Dry Tortugas National Park",
+                "images": "/images/drytortugas.jpg",
+                "text": "Dry Tortugas National Park is a national park in the United States about 68 miles (109 km) west of Key West in the Gulf of Mexico. The park preserves Fort Jefferson and the seven Dry Tortugas islands, the westernmost and most isolated of the Florida Keys. The archipelago's coral reefs are the least disturbed of the Florida Keys reefs.\nThe park is noted for abundant sea life, tropical bird breeding grounds, colorful coral reefs, and legends of shipwrecks and sunken treasures. The park's centerpiece is Fort Jefferson, a massive but unfinished coastal fortress. Fort Jefferson is the largest brick masonry structure in the Western Hemisphere, and is composed of more than 16 million bricks.",
+                "latitude": 24.628477,
+                "longitude": -82.873188
+            },
+            {
+                "name": "Everglades National Park",
+                "images": "/images/everglades.jpg",
+                "text": "Everglades National Park  is an American national park that protects the southern twenty percent of the original Everglades in Florida. The park is the largest tropical wilderness in the United States and the largest wilderness of any kind east of the Mississippi River. An average of one million people visit the park each year. Everglades is the third-largest national park in the contiguous United States after Death Valley and Yellowstone. UNESCO declared the Everglades & Dry Tortugas Biosphere Reserve in 1976 and listed the park as a World Heritage Site in 1979, and the Ramsar Convention included the park on its list of Wetlands of International Importance in 1987. Everglades is one of only three locations in the world to appear on all three lists.Most national parks preserve unique geographic features; Everglades National Park was the first created to protect a fragile ecosystem.",
+                "latitude": 25.286615,
+                "longitude": -80.898651
+            }
+        ]
+    },
+    "georgia": {
+        "name": "Georgia",
+        "parks": []
+    },
+    "hawaii": {
+        "name": "Hawaii",
+        "parks": [
+            {
+                "name": "Haleakala National Park",
+                "images": "/images/haleakala.jpg",
+                "text": "Haleakal\u0101 National Park is an American national park located on the island of Maui in the state of Hawaii. Named after Haleakal\u0101, a dormant volcano within its boundaries, the park covers an area of 33,265 acres (52.0 sq mi; 134.6 km2), of which 24,719 acres (38.6 sq mi; 100.0 km2) is a wilderness area. The land was designated a national park in 1976 and its boundaries expanded in 2005.\n\n\n== History ==\nHaleakal\u0101 was originally part of Hawaii National Park along with the volcanoes of Mauna Loa and Kilauea on the island of Hawai\u02bbi, created in 1916. Hawai\u02bbi Volcanoes National Park was made into a separate national park in 1961. The park area was designated an International Biosphere Reserve in 1980.",
+                "latitude": 20.701283,
+                "longitude": -156.173325
+            },
+            {
+                "name": "Hawai'i Volcanoes National Park",
+                "images": "/images/hawaiivolcanoes.jpg",
+                "text": "",
+                "latitude": 19.479488,
+                "longitude": -155.602829
+            }
+        ]
+    },
+    "idaho": {
+        "name": "Idaho",
+        "parks": [
+            {
+                "name": "Yellowstone National Park",
+                "images": "/images/yellowstone.jpg",
+                "text": "",
+                "latitude": 44.423691,
+                "longitude": -110.588516
+            }
+        ]
+    },
+    "illinois": {
+        "name": "Illinois",
+        "parks": []
+    },
+    "indiana": {
+        "name": "Indiana",
+        "parks": [
+            {
+                "name": "Indiana Dunes National Park",
+                "images": "/images/indianadunes.jpg",
+                "text": "Indiana Dunes National Park is a United States national park located in northwestern Indiana managed by the National Park Service. It was authorized by Congress in 1966 as the Indiana Dunes National Lakeshore and was redesignated as the nation's 61st national park on February 15, 2019. The park runs for about 20 miles (32 km) along the southern shore of Lake Michigan; it covers 15,349 acres (6,212 ha) of various acreage. Along the lakefront, the eastern area is roughly the lake shore south to U.S. 12 or U.S. 20 between Michigan City, Indiana, on the east and the ArcelorMittal steel plant on the west. A small extension south of the steel mill continues west along Salt Creek to Indiana 249. The western area is roughly the shoreline south to U.S. 12 between the Burns Ditch west to Broadway in downtown Gary, Indiana.",
+                "latitude": 41.623747,
+                "longitude": -86.841765
+            }
+        ]
+    },
+    "iowa": {
+        "name": "Iowa",
+        "parks": []
+    },
+    "kansas": {
+        "name": "Kansas",
+        "parks": []
+    },
+    "kentucky": {
+        "name": "Kentucky",
+        "parks": [
+            {
+                "name": "Mammoth Cave National Park",
+                "images": "/images/mammothcave.jpg",
+                "text": "Mammoth Cave National Park is an American national park in west-central Kentucky, encompassing portions of Mammoth Cave, the longest cave system known in the world.\nSince the 1972 unification of Mammoth Cave with the even-longer system under Flint Ridge to the north, the official name of the system has been the Mammoth\u2013Flint Ridge Cave System. The park was established as a national park on July 1, 1941, a World Heritage Site on October 27, 1981, an international Biosphere Reserve on September 26, 1990 and an International Dark Sky Park on October 28, 2021.\nThe park's 52,830 acres (21,380 ha) are located primarily in Edmonson County, with small areas extending eastward into Hart and Barren counties. The Green River runs through the park, with a tributary called the Nolin River feeding into the Green just inside the park. Mammoth Cave is the world's longest known cave system with more than 420 miles (680 km) of surveyed passageways, which is nearly twice as long as the second-longest cave system, Mexico's Sac Actun underwater cave.",
+                "latitude": 37.186989,
+                "longitude": -86.10054
+            }
+        ]
+    },
+    "louisiana": {
+        "name": "Louisiana",
+        "parks": []
+    },
+    "maine": {
+        "name": "Maine",
+        "parks": [
+            {
+                "name": "Acadia National Park",
+                "images": "/images/acadia.jpg",
+                "text": "Acadia National Park is an American national park located along the mid-section of the Maine coast, southwest of Bar Harbor. The park preserves about half of Mount Desert Island, part of the Isle au Haut, the tip of the Schoodic Peninsula, and portions of 16 smaller outlying islands. It protects the natural beauty of the rocky headlands, including the highest mountains along the Atlantic coast. Acadia boasts a glaciated coastal and island landscape, an abundance of habitats, a high level of biodiversity, clean air and water, and a rich cultural heritage.\nThe park contains the tallest mountain on the Atlantic Coast of the United States (Cadillac Mountain), exposed granite domes, glacial erratics, U-shaped valleys, and cobble beaches. Its mountains, lakes, streams, wetlands, forests, meadows, and coastlines contribute to a diversity of plants and animals.",
+                "latitude": 44.338974,
+                "longitude": -68.27343
+            }
+        ]
+    },
+    "maryland": {
+        "name": "Maryland",
+        "parks": []
+    },
+    "massachusetts": {
+        "name": "Massachusetts",
+        "parks": []
+    },
+    "michigan": {
+        "name": "Michigan",
+        "parks": [
+            {
+                "name": "Isle Royale National Park",
+                "images": "/images/isleroyale.jpg",
+                "text": "Isle Royale National Park is an American national park consisting of Isle Royale and more than 400 small adjacent islands, as well as the surrounding waters of Lake Superior, in the state of Michigan. Isle Royale is 45 miles (72 km) long and 9 miles (14 km) wide, with an area of 206.73 square miles (535.4 km2), making it the fourth-largest lake island in the world. In addition, it is the largest natural island in Lake Superior, the second-largest island in the Great Lakes (after Manitoulin Island), the third-largest in the contiguous United States (after Long Island and Padre Island), and the 33rd-largest island in the United States.Isle Royale National Park was established on April 3, 1940, then additionally protected from development by wilderness area designation in 1976, declared a UNESCO International Biosphere Reserve in 1980, and added to the National Register of Historic Places in 2019 as the Minong Traditional Cultural Property. The park covers 894 square miles (2,320 km2), with 209 square miles (540 km2) of land and 685 square miles (1,770 km2) of surrounding waters.\nThe park's northern boundary lies adjacent to the Canadian Lake Superior National Marine Conservation Area along the international border. With 25,798 visitors in 2018, it is the least-visited national park in the contiguous United States.",
+                "latitude": 48.1511,
+                "longitude": -88.6206
+            }
+        ]
+    },
+    "minnesota": {
+        "name": "Minnesota",
+        "parks": [
+            {
+                "name": "Voyageurs National Park",
+                "images": "/images/voyageurs.jpg",
+                "text": "Voyageurs National Park is an American national park in northern Minnesota near the city of International Falls established in 1975. The park's name commemorates the voyageurs\u2014French-Canadian fur traders who were the first European settlers to frequently travel through the area. Notable for its outstanding water resources, the park is popular with canoeists, kayakers, other boaters, and fishermen. The Kabetogama Peninsula, which lies entirely within the park and makes up most of its land area, is accessible only by boat. To the east of the park lies the Boundary Waters Canoe Area Wilderness.\nThe park has several boat ramps and visitor centers on its periphery, though the main body of the park is only accessible by boat or, in the winter, by snowmobile, ski, or snowshoe.",
+                "latitude": 48.4835458,
+                "longitude": -92.8380976
+            }
+        ]
+    },
+    "mississippi": {
+        "name": "Mississippi",
+        "parks": []
+    },
+    "missouri": {
+        "name": "Missouri",
+        "parks": [
+            {
+                "name": "Gateway Arch National Park",
+                "images": "/images/gatewayarch.jpg",
+                "text": "Gateway Arch National Park is an American national park located in St. Louis, Missouri, near the starting point of the Lewis and Clark Expedition.\nThe memorial was established to commemorate:\n\nthe Louisiana Purchase and subsequent westward movement of American explorers and pioneers;\nthe first civil government west of the Mississippi River; and\nthe debate over slavery raised by the Dred Scott case.The national park consists of the Gateway Arch, a steel catenary arch that has become the definitive icon of St. Louis; a 91-acre (36.8 ha) park along the Mississippi River on the site of the earliest buildings of the city; the Old Courthouse, a former state and federal courthouse where the Dred Scott case originated; and the 140,000 sq ft (13,000 m2) museum at the Gateway Arch.\nThe immediate surroundings of the Gateway Arch were initially designated the Jefferson National Expansion Memorial (a national memorial) by executive order on December 21, 1935. The Gateway Arch was completed on October 28, 1965; the area surrounding it was redesignated as the \"Gateway Arch National Park\" (a national park) in 2018.",
+                "latitude": 38.624691,
+                "longitude": -90.184776
+            }
+        ]
+    },
+    "montana": {
+        "name": "Montana",
+        "parks": [
+            {
+                "name": "Glacier National Park",
+                "images": "/images/glacier.jpg",
+                "text": "Glacier National Park is an American national park located in northwestern Montana, on the Canada\u2013United States border, adjacent to the Canadian provinces of Alberta and British Columbia. The park encompasses more than 1 million acres (4,000 km2) and includes parts of two mountain ranges (sub-ranges of the Rocky Mountains), more than 130 named lakes, more than 1,000 different species of plants, and hundreds of species of animals. This vast pristine ecosystem is the centerpiece of what has been referred to as the \"Crown of the Continent Ecosystem,\" a region of protected land encompassing 16,000 square miles (41,000 km2).The region that became Glacier National Park was first inhabited by Native Americans. Upon the arrival of European explorers, it was dominated by the Blackfeet in the east and the Flathead in the western regions. Under pressure, the Blackfeet ceded the mountainous parts of their treaty lands in 1895 to the federal government; it later became part of the park. Soon after the establishment of the park on May 11, 1910, a number of hotels and chalets were constructed by the Great Northern Railway.",
+                "latitude": 48.7596128,
+                "longitude": -113.78702250000003
+            },
+            {
+                "name": "Yellowstone National Park",
+                "images": "/images/yellowstone.jpg",
+                "text": "",
+                "latitude": 44.423691,
+                "longitude": -110.588516
+            }
+        ]
+    },
+    "nebraska": {
+        "name": "Nebraska",
+        "parks": []
+    },
+    "nevada": {
+        "name": "Nevada",
+        "parks": [
+            {
+                "name": "Death Valley",
+                "images": "/images/deathvalley.jpg",
+                "text": "Death Valley is a desert valley in Eastern California, in the northern Mojave Desert, bordering the Great Basin Desert. During summer, it is one of the hottest places on Earth, along with deserts in the Middle East and the Sahara.Death Valley's Badwater Basin is the point of lowest elevation in North America, at 282 feet (86 m) below sea level. It is 84.6 miles (136.2 km) east-southeast of Mount Whitney, the highest point in the contiguous United States, with an elevation of 14,505 feet (4,421 m). On the afternoon of July 10, 1913, the United States Weather Bureau recorded a high temperature of 134 \u00b0F (56.7 \u00b0C) at Furnace Creek in Death Valley, which stands as the highest ambient air temperature ever recorded on the surface of the Earth.  This reading, however, and several others taken in that period, a century ago, are in dispute by some modern experts.Lying mostly in Inyo County, California, near the border of California and Nevada, in the Great Basin, east of the Sierra Nevada mountains, Death Valley constitutes much of Death Valley National Park and is the principal feature of the Mojave and Colorado Deserts Biosphere Reserve. It runs from north to south between the Amargosa Range on the east and the Panamint Range on the west; the Grapevine Mountains and the Owlshead Mountains form its northern and southern boundaries, respectively.",
+                "latitude": 36.9652162,
+                "longitude": -117.1497894
+            },
+            {
+                "name": "Great Basin National Park",
+                "images": "/images/greatbasin.jpg",
+                "text": "Great Basin National Park is an American national park located in White Pine County in east-central Nevada, near the Utah border, established in 1986. The park is most commonly entered by way of Nevada State Route 488, which is connected to U.S. Routes 6 and 50 by Nevada State Route 487 via the small town of Baker, the closest settlement.\nThe park derives its name from the Great Basin, the dry and mountainous region between the Sierra Nevada and the Wasatch Mountains. Topographically, this area is known as the Basin and Range Province. The park is located about 290 miles (470 km) north of Las Vegas and protects 77,180 acres (31,230 ha).The park is notable for its groves of ancient bristlecone pines, the oldest known nonclonal organisms, and for the Lehman Caves at the base of 13,063-foot (3,982 m) Wheeler Peak, as well as Wheeler Peak Glacier.\nPresident Warren G. Harding created Lehman Caves National Monument by presidential proclamation on January 24, 1922.",
+                "latitude": 38.9833329999,
+                "longitude": " -114.30"
+            }
+        ]
+    },
+    "newhampshire": {
+        "name": "New Hampshire",
+        "parks": []
+    },
+    "newjersey": {
+        "name": "New Jersey",
+        "parks": []
+    },
+    "newmexico": {
+        "name": "New Mexico",
+        "parks": [
+            {
+                "name": "Carlsbad Caverns National Park",
+                "images": "/images/carlsbadcaverns.jpg",
+                "text": "Carlsbad Caverns National Park is an American national park in the Guadalupe Mountains of southeastern New Mexico. The primary attraction of the park is the show cave, Carlsbad Cavern. Visitors to the cave can hike in on their own via the natural entrance or take an elevator from the visitor center.\nThe park entrance is located on US Highway 62/180, approximately 18 miles (29 km) southwest of Carlsbad, New Mexico. Carlsbad Caverns National Park participates in the Junior Ranger Program. The park has two entries on the National Register of Historic Places: The Caverns Historic District and the Rattlesnake Springs Historic District.",
+                "latitude": 32.417934,
+                "longitude": -104.229034
+            },
+            {
+                "name": "White Sands National Park",
+                "images": "/images/whitesands.jpg",
+                "text": "White Sands National Park is an American national park located in the state of New Mexico and completely surrounded by the White Sands Missile Range. The park covers 145,762 acres (227.8 sq mi; 589.9 km2) in the Tularosa Basin, including the southern 41% of a 275 sq mi (710 km2) field of white sand dunes composed of gypsum crystals. This gypsum dunefield is the largest of its kind on Earth, with a depth of about 30 feet (9.1 m), dunes as tall as 60 feet (18 m), and about 4.5 billion short tons (4.1 billion metric tons) of gypsum sand.\nApproximately 12,000 years ago, the land within the Tularosa Basin featured large lakes, streams, grasslands, and Ice Age mammals. As the climate warmed, rain and snowmelt dissolved gypsum from the surrounding mountains and carried it into the basin. Further warming and drying caused the lakes to evaporate and form selenite crystals.",
+                "latitude": 32.77972,
+                "longitude": -106.171669
+            }
+        ]
+    },
+    "newyork": {
+        "name": "New York",
+        "parks": []
+    },
+    "northcarolina": {
+        "name": "North Carolina",
+        "parks": [
+            {
+                "name": "Great Smoky Mountains National Park",
+                "images": "/images/greatsmokymountains.jpg",
+                "text": "Great Smoky Mountains National Park is an American national park in the southeastern United States, with parts in Tennessee and North Carolina. The park straddles the ridgeline of the Great Smoky Mountains, part of the Blue Ridge Mountains, which are a division of the larger Appalachian Mountain chain. The park contains some of the highest mountains in eastern North America, including Clingmans Dome, Mount Guyot, and Mount Le Conte. The border between the two states runs northeast to southwest through the center of the park. The Appalachian Trail passes through the center of the park on its route from Georgia to Maine. With 14.1 million visitors in 2021, the Great Smoky Mountains National Park is the most visited national park in the United States.",
+                "latitude": 35.611763,
+                "longitude": -83.489548
+            },
+            {
+                "name": "Theodore Roosevelt National Park",
+                "images": "/images/theodoreroosevelt.jpg",
+                "text": "Theodore Roosevelt National Park is an American national park comprising three geographically separated areas of badlands in western North Dakota. Honoring U.S. President Theodore Roosevelt, it is the only American national park named directly after a single person.\nThe park covers 70,446 acres (110.072 sq mi; 28,508 ha; 285.08 km2) of land in three sections: the North Unit, the South Unit, and the Elkhorn Ranch Unit. The park's larger South Unit lies alongside Interstate 94 near Medora, North Dakota. The smaller North Unit is situated about 80 mi (130 km) north of the South Unit, and Roosevelt's Elkhorn Ranch is located between the North and South units. The Little Missouri River flows through all three units of the park.",
+                "latitude": 46.978965,
+                "longitude": -103.538709
+            }
+        ]
+    },
+    "northdakota": {
+        "name": "North Dakota",
+        "parks": [
+            {
+                "name": "Theodore Roosevelt National Park",
+                "images": "/images/theodoreroosevelt.jpg",
+                "text": "Theodore Roosevelt National Park is an American national park comprising three geographically separated areas of badlands in western North Dakota. Honoring U.S. President Theodore Roosevelt, it is the only American national park named directly after a single person.\nThe park covers 70,446 acres (110.072 sq mi; 28,508 ha; 285.08 km2) of land in three sections: the North Unit, the South Unit, and the Elkhorn Ranch Unit. The park's larger South Unit lies alongside Interstate 94 near Medora, North Dakota. The smaller North Unit is situated about 80 mi (130 km) north of the South Unit, and Roosevelt's Elkhorn Ranch is located between the North and South units. The Little Missouri River flows through all three units of the park.",
+                "latitude": 46.978965,
+                "longitude": -103.538709
+            }
+        ]
+    },
+    "ohio": {
+        "name": "Ohio",
+        "parks": [
+            {
+                "name": "Cuyahoga Valley National Park",
+                "images": "/images/cuyahogavalley.jpg",
+                "text": "Cuyahoga Valley National Park is an American national park that preserves and reclaims the rural landscape along the Cuyahoga River between Akron and Cleveland in Northeast Ohio.\nThe 32,572-acre (50.9 sq mi; 131.8 km2) park is administered by the National Park Service, but within its boundaries are areas independently managed as county parks or as public or private businesses. Cuyahoga Valley was originally designated as a National Recreation Area in 1974, then redesignated as a national park 26 years later in 2000, and remains the only national park that originated as a national recreation area.\nCuyahoga Valley is the only national park in the state of Ohio and one of three in the Great Lakes Basin, with Isle Royale National Park in Lake Superior and Indiana Dunes National Park bordering Lake Michigan. Cuyahoga Valley also differs from the other national parks in America in that it is adjacent to two large urban areas and it includes a dense road network, small towns, four reservations of the Cleveland Metroparks, eleven parks of the Summit Metro Parks, and public and private attractions.\n\n\n== History ==\n\n\n=== Indigenous history ===\nNo Native American tribes currently have federal recognition in Ohio; however, the former inhabitants of the Cuyahoga Valley were Native Americans.",
+                "latitude": 41.2808,
+                "longitude": -81.5678
+            }
+        ]
+    },
+    "oklahoma": {
+        "name": "Oklahoma",
+        "parks": []
+    },
+    "oregon": {
+        "name": "Oregon",
+        "parks": [
+            {
+                "name": "Crater Lake National Park",
+                "images": "/images/craterlake.jpg",
+                "text": "Crater Lake National Park is an American national park located in southern Oregon. Established in 1902, Crater Lake is the fifth-oldest national park in the United States and the only national park in Oregon. The park encompasses the caldera of Crater Lake, a remnant of Mount Mazama, a destroyed volcano, and the surrounding hills and forests.\nThe lake is 1,949 feet (594 m) deep at its deepest point, which makes it the deepest lake in the United States, the second-deepest in North America and the ninth-deepest in the world. Crater Lake is often referred to as the seventh-deepest lake in the world, but this former listing excludes the approximately 3,000-foot (910 m) depth of subglacial Lake Vostok in Antarctica, which resides under nearly 13,000 feet (4,000 m) of ice, and the recent report of a 2,740-foot (840 m) maximum depth for Lake O'Higgins/San Martin, located on the border of Chile and Argentina.  However, when comparing its average depth of 1,148 feet (350 m) to the average depth of other deep lakes, Crater Lake becomes the deepest in the Western Hemisphere and the third-deepest in the world.",
+                "latitude": 42.8684,
+                "longitude": -122.1685
+            }
+        ]
+    },
+    "pennsylvania": {
+        "name": "Pennsylvania",
+        "parks": []
+    },
+    "rhodeisland": {
+        "name": "Rhode Island",
+        "parks": []
+    },
+    "southcarolina": {
+        "name": "South Carolina",
+        "parks": [
+            {
+                "name": "Congaree National Park",
+                "images": "/images/congaree.jpg",
+                "text": "Congaree National Park is a 26,276-acre (41.1 sq mi; 106.3 km2) American national park in central South Carolina, 18 miles southeast of the state capital, Columbia. The park preserves the largest tract of old growth bottomland hardwood forest left in the United States. The lush trees growing in its floodplain forest are some of the tallest in the eastern United States, forming one of the highest temperate deciduous forest canopies remaining in the world. The Congaree River flows through the park. About 15,000 acres (23.4 sq mi; 60.7 km2) are designated as a wilderness area.\nThe park received its official designation in 2003 as the culmination of a grassroots campaign that began in 1969.",
+                "latitude": 33.7948,
+                "longitude": -80.7821
+            }
+        ]
+    },
+    "southdakota": {
+        "name": "South Dakota",
+        "parks": [
+            {
+                "name": "Badlands National Park",
+                "images": "/images/badlands.jpg",
+                "text": "Badlands National Park (Lakota: Mak\u021f\u00f3\u0161i\u010da) is an American national park located in southwestern South Dakota. The park protects 242,756 acres (379.3 sq mi; 982.4 km2) of sharply eroded buttes and pinnacles, along with the largest undisturbed mixed grass prairie in the United States. The National Park Service manages the park, with the South Unit being co-managed with the Oglala Lakota tribe.The Badlands Wilderness protects 64,144 acres (100.2 sq mi; 259.6 km2) of the park's North Unit as a designated wilderness area, and is one site where the black-footed ferret, one of the most endangered mammals in the world, was reintroduced to the wild. The South Unit, or Stronghold District, includes sites of 1890s Ghost Dances, a former United States Air Force bomb and gunnery range, and Red Shirt Table, the park's highest point at 3,340 feet (1,020 m).Authorized as Badlands National Monument on March 4, 1929, it was not established until January 25, 1939. Badlands was redesignated a national park on November 10, 1978. Under the Mission 66 plan, the Ben Reifel Visitor Center was constructed for the monument in 1957\u201358.",
+                "latitude": 43.8554,
+                "longitude": -102.3397
+            },
+            {
+                "name": "Wind Cave National Park",
+                "images": "/images/windcave.jpg",
+                "text": "Wind Cave National Park is an American national park located 10 miles (16 km) north of the town of Hot Springs in western South Dakota. Established on January 3, 1903 by President Theodore Roosevelt, it was the seventh national park and the first cave to be designated a national park anywhere in the world. The cave is notable for its calcite formations known as boxwork, as well as its frostwork. Approximately 95 percent of the world's discovered boxwork formations are found in Wind Cave. The cave is recognized as the densest cave system in the world, with the greatest passage volume per cubic mile. Wind Cave is the seventh longest cave in the world with 154.2 miles (248.16 km) of explored cave passageways (as of 2021) and the third longest cave in the United States.",
+                "latitude": 43.5724,
+                "longitude": -103.4416
+            }
+        ]
+    },
+    "tennessee": {
+        "name": "Tennessee",
+        "parks": [
+            {
+                "name": "Great Smoky Mountains",
+                "images": "/images/greatsmokymountains.jpg",
+                "text": "The Great Smoky Mountains (Cherokee: \u13a1\u13c6 \u13da\u13e7\u13cd\u13da \u13d9\u13d3\u13b8, Equa Dutsusdu Dodalv) are a mountain range rising along the Tennessee\u2013North Carolina border in the southeastern United States.  They are a subrange of the Appalachian Mountains, and form part of the Blue Ridge Physiographic Province.  The range is sometimes called the Smoky Mountains and the name is commonly shortened to the Smokies.  The Great Smokies are best known as the home of the Great Smoky Mountains National Park, which protects most of the range.  The park was established in 1934, and, with over 11 million visits per year, it is the most visited national park in the United States.The Great Smokies are part of an International Biosphere Reserve.  The range is home to an estimated 187,000 acres (76,000 ha) of old growth forest, constituting the largest such stand east of the Mississippi River.",
+                "latitude": 35.6131,
+                "longitude": -83.5532
+            }
+        ]
+    },
+    "texas": {
+        "name": "Texas",
+        "parks": [
+            {
+                "name": "Big Bend National Park",
+                "images": "/images/bigbend.jpg",
+                "text": "Big Bend National Park is an American national park located in West Texas, bordering Mexico. The park has national significance as the largest protected area of Chihuahuan Desert topography and ecology in the United States, and was named after a large bend in the Rio Grande/R\u00edo Bravo. The park protects more than 1,200 species of plants, more than 450 species of birds, 56 species of reptiles, and 75 species of mammals. Additional park activities include scenic drives, programs led by Big Bend park rangers, and stargazing.The area has a rich cultural history, from archeological sites dating back nearly 10,000 years to more recent pioneers, ranchers, and miners. The Chisos Mountains are located in the park, and are the only mountain range in the United States to be fully contained within the boundary of a national park. Geological features in the park include sea fossils and dinosaur bones, as well as volcanic dikes.",
+                "latitude": 29.2498,
+                "longitude": -103.2502
+            },
+            {
+                "name": "Guadalupe Mountains National Park",
+                "images": "/images/guadalupe.jpg",
+                "text": "Guadalupe Mountains National Park is an American national park in the Guadalupe Mountains, east of El Paso, Texas. The mountain range includes Guadalupe Peak, the highest point in Texas at 8,751 feet (2,667 m), and El Capitan used as a landmark by travelers on the route later followed by the Butterfield Overland Mail stagecoach line. The ruins of a stagecoach station stand near the Pine Springs visitor center. The restored Frijole Ranch contains a small museum of local history and is the trailhead for Smith Spring. The park covers 86,367 acres (134.9 sq mi; 349.5 km2) in the same mountain range as Carlsbad Caverns National Park, about 25 miles (40 km) to the north in New Mexico. The Guadalupe Peak Trail winds through pinyon pine and Douglas-fir forests as it ascends over 3,000 feet (910 m) to the summit of Guadalupe Peak, with views of El Capitan and the Chihuahuan Desert.",
+                "latitude": 31.9231,
+                "longitude": -104.8645
+            }
+        ]
+    },
+    "utah": {
+        "name": "Utah",
+        "parks": [
+            {
+                "name": "Arches National Park",
+                "images": "/images/arches.jpg",
+                "text": "Arches National Park is a national park in eastern Utah, United States. The park is adjacent to the Colorado River, 4 miles (6 km) north of Moab, Utah. More than 2,000 natural sandstone arches are located in the park, including the well-known Delicate Arch, as well as a variety of unique geological resources and formations. The park contains the highest density of natural arches in the world.The park consists of 310.31 square kilometres (76,680 acres; 119.81 sq mi; 31,031 ha) of high desert located on the Colorado Plateau. The highest elevation in the park is 5,653 feet (1,723 m) at Elephant Butte, and the lowest elevation is 4,085 feet (1,245 m) at the visitor center. The park receives an average of less than 10 inches (250 mm) of rain annually.",
+                "latitude": 38.7331,
+                "longitude": -109.5925
+            },
+            {
+                "name": "Bryce Canyon National Park",
+                "images": "/images/brycecanyon.jpg",
+                "text": "Bryce Canyon National Park () is an American national park located in southwestern Utah. The major feature of the park is Bryce Canyon, which despite its name, is not a canyon, but a collection of giant natural amphitheaters along the eastern side of the Paunsaugunt Plateau. Bryce is distinctive due to geological structures called hoodoos, formed by frost weathering and stream erosion of the river and lake bed sedimentary rocks. The red, orange, and white colors of the rocks provide spectacular views for park visitors. Bryce Canyon National Park is much smaller and sits at a much higher elevation than nearby Zion National Park. The rim at Bryce varies from 8,000 to 9,000 feet (2,400 to 2,700 m).",
+                "latitude": 37.593,
+                "longitude": -112.1871
+            },
+            {
+                "name": "Canyonlands National Park",
+                "images": "/images/canyonlands.jpg",
+                "text": "Canyonlands National Park is an American national park located in southeastern Utah near the town of Moab. The park preserves a colorful landscape eroded into numerous canyons, mesas, and buttes by the Colorado River, the Green River, and their respective tributaries. Legislation creating the park was signed into law by President Lyndon Johnson on September 12, 1964.The park is divided into four districts: the Island in the Sky, the Needles, the Maze, and the combined rivers\u2014the Green and Colorado\u2014which carved two large canyons into the Colorado Plateau. While these areas share a primitive desert atmosphere, each retains its own character. Author Edward Abbey, a frequent visitor, described the Canyonlands as \"the most weird, wonderful, magical place on earth\u2014there is nothing else like it anywhere.\"\n\n\n== History ==\nIn the early 1950s, Bates Wilson, then superintendent of Arches National Monument, began exploring the area to the south and west of Moab, Utah.  After seeing what is now known as the Needles District of Canyonlands National Park, Wilson began advocating for the establishment of a new national park that would include the Needles.",
+                "latitude": 38.2136,
+                "longitude": -109.9025
+            },
+            {
+                "name": "Capitol Reef National Park",
+                "images": "/images/capitolreef.jpg",
+                "text": "Capitol Reef National Park is an American national park in south-central Utah. The park is approximately 60 miles (97 km) long on its north\u2013south axis and just 6 miles (9.7 km) wide on average. The park was established in 1971 to preserve 241,904 acres (377.98 sq mi; 97,895.08 ha; 978.95 km2) of desert landscape and is open all year, with May through September being the highest visitation months.\nPartially in Wayne County, Utah, the area was originally named \"Wayne Wonderland\" in the 1920s by local boosters Ephraim P. Pectol and Joseph S. Hickman. Capitol Reef National Park was designated a national monument on August 2, 1937, by President Franklin D. Roosevelt to protect the area's colorful canyons, ridges, buttes, and monoliths; however, it was not until 1950 that the area officially opened to the public. Road access was improved in 1962 with the construction of State Route 24 through the Fremont River Canyon.The majority of the nearly 100 mi (160 km) long up-thrust formation called the Waterpocket Fold\u2014a rocky spine extending from Thousand Lake Mountain to Lake Powell\u2014is preserved within the park.",
+                "latitude": 38.0896,
+                "longitude": -111.14991
+            },
+            {
+                "name": "Zion National Park",
+                "images": "/images/zion.jpg",
+                "text": "Zion National Park is an American national park located in southwestern Utah near the town of Springdale. A prominent feature of the 229-square-mile (590 km2) park is Zion Canyon, which is 15 miles (24 km) long and up to 2,640 ft (800 m) deep. The canyon walls are reddish and tan-colored Navajo Sandstone eroded by the North Fork of the Virgin River. The lowest point in the park is 3,666 ft (1,117 m) at Coalpits Wash and the highest peak is 8,726 ft (2,660 m) at Horse Ranch Mountain. Located at the junction of the Colorado Plateau, Great Basin, and Mojave Desert regions, the park has a unique geography and a variety of life zones that allow for unusual plant and animal diversity. Numerous plant species as well as 289 species of birds, 75 mammals (including 19 species of bat), and 32 reptiles inhabit the park's four life zones: desert, riparian, woodland, and coniferous forest.",
+                "latitude": 37.2982,
+                "longitude": -113.0263
+            }
+        ]
+    },
+    "vermont": {
+        "name": "Vermont",
+        "parks": [
+            {
+                "name": "Shenandoah National Park",
+                "images": "/images/shenandoah.jpg",
+                "text": "Shenandoah National Park  (often ) is an American national park that encompasses part of the Blue Ridge Mountains in the Commonwealth of Virginia. The park is long and narrow, with the Shenandoah River and its broad valley to the west, and the rolling hills of the Virginia Piedmont to the east. Skyline Drive is the main park road, generally traversing along the ridgeline of the mountains. Almost 40% of the park's land\u201479,579 acres (124.3 sq mi; 322.0 km2)\u2014has been designated as wilderness areas and is protected as part of the National Wilderness Preservation System. The highest peak is Hawksbill Mountain at 4,051 feet (1,235 m).\n\n\n== Park purpose ==\nAs stated in the foundation document:\nShenandoah National Park preserves and protects nationally significant natural and cultural resources, scenic beauty, and congressionally designated wilderness within Virginia\u2019s northern Blue Ridge Mountains, and provides a broad range of opportunities for public enjoyment, recreation, inspiration, and stewardship.",
+                "latitude": 38.4755,
+                "longitude": -78.4535
+            }
+        ]
+    },
+    "virginia": {
+        "name": "Virginia",
+        "parks": []
+    },
+    "washington": {
+        "name": "Washington",
+        "parks": [
+            {
+                "name": "Mount Rainier National Park",
+                "images": "/images/mountrainier.jpg",
+                "text": "Mount Rainier National Park is an American national park located in southeast Pierce County and northeast Lewis County in Washington state. The park was established on March 2, 1899, as the fifth national park in the United States, preserving 236,381 acres (369.3 sq mi; 956.6 km2) including all of Mount Rainier, a 14,411-foot (4,392 m) stratovolcano. The mountain rises abruptly from the surrounding land with elevations in the park ranging from 1,600 feet to over 14,000 feet (490\u20134,300 m). The highest point in the Cascade Range, Mount Rainier is surrounded by valleys, waterfalls, subalpine meadows, and 91,000 acres (142.2 sq mi; 368.3 km2) of old-growth forest. More than 25 glaciers descend the flanks of the volcano, which is often shrouded in clouds that dump enormous amounts of rain and snow.\nMount Rainier is circled by the Wonderland Trail and is covered by glaciers and snowfields totaling about 35 square miles (91 km2).",
+                "latitude": 46.88,
+                "longitude": -121.7269
+            },
+            {
+                "name": "North Cascades National Park",
+                "images": "/images/northcascades.jpg",
+                "text": "North Cascades National Park is an American national park in the state of Washington. At more than 500,000 acres (200,000 ha), it is the largest of the three National Park Service units that comprise the North Cascades National Park Complex. North Cascades National Park consists of a northern and southern section, bisected by the Skagit River that flows through the reservoirs of Ross Lake National Recreation Area. Lake Chelan National Recreation Area lies on the southern border of the south unit of the park. In addition to the two national recreation areas, other protected lands including several national forests and wilderness areas, as well as Canadian provincial parks in British Columbia, nearly surround the park. North Cascades National Park features the rugged mountain peaks of the North Cascades Range, the most expansive glacial system in the contiguous United States, the headwaters of numerous waterways, and vast forests with the highest degree of flora biodiversity of any American national park.",
+                "latitude": 48.7718,
+                "longitude": -121.2985
+            },
+            {
+                "name": "Olympic National Park",
+                "images": "/images/olympic.jpg",
+                "text": "Olympic National Park is a United States national park located in the State of Washington, on the Olympic Peninsula. The park has four regions: the Pacific coastline, alpine areas, the west-side temperate rainforest, and the forests of the drier east side. Within the park there are three distinct ecosystems, including subalpine forest and wildflower meadow, temperate forest, and the rugged Pacific coast.President Theodore Roosevelt originally designated the park as Mount Olympus National Monument on March 2, 1909. The monument was re-designated a national park by Congress and President Franklin D. Roosevelt on June 29, 1938. In 1976, Olympic National Park was designated by UNESCO as an International Biosphere Reserve, and in 1981 as a World Heritage Site. In 1988, Congress designated 95 percent of the park (1,370 square miles (3,500 km2)) as the Olympic Wilderness, which was renamed Daniel J. Evans Wilderness in honor of Governor and U.S. Senator Daniel J. Evans in 2017.",
+                "latitude": 47.8021,
+                "longitude": -123.6044
+            }
+        ]
+    },
+    "westvirginia": {
+        "name": "West Virginia",
+        "parks": [
+            {
+                "name": "New River Gorge National Park",
+                "images": "/images/westvirginia.jpg",
+                "text": "The New River Gorge National Park and Preserve is a unit of the United States National Park Service (NPS) designed to protect and maintain the New River Gorge in southern West Virginia in the Appalachian Mountains.  Established in 1978 as a national river and redesignated in 2020, the park and preserve stretches for 53 miles (85 km) from just downstream of Hinton to Hawks Nest State Park near Ansted. The park is rich in cultural and natural history, and offers an abundance of scenic and recreational opportunities. New River Gorge is home to some of the country's best whitewater rafting, mainly from the Cunard put-in to the Fayette Station take-out, and is also one of the most popular climbing areas on the East Coast.\nPresident Jimmy Carter signed legislation establishing New River Gorge National River on November 10, 1978 (Pub.L. 95\u2013625). As stated in the legislation, the park was established as a unit of the national park system \"for the purpose of conserving and interpreting outstanding natural, scenic, and historic values and objects in and around the New River Gorge, and preserving as a free-flowing stream an important segment of the New River in West Virginia for the benefit and enjoyment of present and future generations.\" The New River Gorge National Park and Preserve Designation Act was incorporated into the Consolidated Appropriations Act, 2021, changing the designation to New River Gorge National Park and Preserve.",
+                "latitude": 37.8772,
+                "longitude": -81.0175
+            }
+        ]
+    },
+    "wisconsin": {
+        "name": "Wisconsin",
+        "parks": []
+    },
+    "wyoming": {
+        "name": "Wyoming",
+        "parks": [
+            {
+                "name": "Grand Teton National Park",
+                "images": "/images/grandteton.jpg",
+                "text": "Grand Teton National Park is an American national park in northwestern Wyoming. At approximately 310,000 acres (1,300 km2), the park includes the major peaks of the 40-mile-long (64 km) Teton Range as well as most of the northern sections of the valley known as Jackson Hole. Grand Teton National Park is only 10 miles (16 km) south of Yellowstone National Park, to which it is connected by the National Park Service\u2013managed John D. Rockefeller Jr. Memorial Parkway. Along with surrounding national forests, these three protected areas constitute the almost 18-million-acre (73,000-square-kilometer) Greater Yellowstone Ecosystem, one of the world's largest intact mid-latitude temperate ecosystems.\nThe human history of the Grand Teton region dates back at least 11,000 years, when the first nomadic hunter-gatherer Paleo-Indians began migrating into the region during warmer months pursuing food and supplies.",
+                "latitude": 43.7904,
+                "longitude": -110.6818
+            },
+            {
+                "name": "Yellowstone National Park",
+                "images": "/images/yellowstone.jpg",
+                "text": "",
+                "latitude": 44.428,
+                "longitude": -110.5885
+            }
+        ]
+    }
+}

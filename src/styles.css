@@ -1,0 +1,50 @@
+.mainPhoto{
+    height: 400px;
+    width: 1600px;
+}
+
+.thumbPhoto{
+    height: 25%;
+    width: 25%;
+    text-align: center
+}
+
+#left{    
+    float: left;  
+    }  
+#right{    
+    float: right;  
+}
+
+#center{
+    top:50%;
+    left: 50%;
+    float: center;
+    list-style-position: inside;
+    text-align: center;
+}
+#align{
+    text-align: left;
+    margin: 0 auto;
+    display: table;
+}
+
+h1{
+    width:500px;
+    margin:0 auto;
+    text-align: center;
+}
+
+h3{
+    width:500px;
+    margin:0 auto;
+    text-align: center;
+}
+body {
+    height: 100%;
+    width: 100%;
+    background-color:darkseagreen;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
